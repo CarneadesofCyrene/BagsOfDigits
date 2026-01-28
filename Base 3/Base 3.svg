@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="187.97845"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-109.226440 -88.000000 187.978455 196.000000" height="196.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.18571429"
+              d="M -9.494078,6.351507 L -2.087639,8.314390"
+              class="id_We_have:_2_2&apos;s. id_We_have_no_digits."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.20714286"
+              d="M 12.476359,4.861762 L 6.174972,7.648747"
+              class="id_We_have:_11_1&apos;s,_1_2. id_We_have_no_digits."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -11.546896,1.542964 L -10.881262,4.735323"
+              class="id_We_have:_2_1&apos;s,_12_2&apos;s. id_We_have:_2_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 12.282822,20.015131 L 5.222611,12.651521"
+              class="id_We_have:_1_0,_11_1&apos;s. id_We_have_no_digits."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.42142856"
+              d="M -5.962650,21.488440 L -0.563281,13.453817"
+              class="id_We_have:_1_0,_11_1&apos;s,_2_2&apos;s. id_We_have_no_digits."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M -18.026728,5.171662 L -11.988753,5.891919"
+              class="id_We_have:_1_0,_12_1&apos;s,_11_2&apos;s. id_We_have:_2_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M 14.441988,-1.236971 L 13.783620,2.968292"
+              class="id_We_have:_1_0,_22_1&apos;s,_11_2&apos;s. id_We_have:_11_1&apos;s,_1_2."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.752029,-4.767768 L 1.974946,3.436476"
+              class="id_We_have:_10_0&apos;s,_10_1&apos;s. id_We_have_no_digits."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M 0.229348,1.017515 L 1.199631,5.296453"
+              class="id_We_have:_10_0&apos;s,_10_1&apos;s,_2_2&apos;s. id_We_have_no_digits."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -2.370661,-25.604977 L -1.341361,-22.938082"
+              class="id_We_have:_100_0&apos;s,_110_1&apos;s,_12_2&apos;s. id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M 38.918583,-81.212547 L 39.446243,-75.564926"
+              class="id_We_have:_1000_0&apos;s,_1021_1&apos;s,_1001_2&apos;s. id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.29285714"
+              d="M -60.681801,-27.020733 L -55.018951,-28.211439"
+              class="id_We_have:_1001_0&apos;s,_1021_1&apos;s,_1000_2&apos;s. id_We_have:_210_0&apos;s,_1001_1&apos;s,_221_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.073242,-14.287380 L 69.341248,-16.701292"
+              class="id_We_have:_1002_0&apos;s,_1121_1&apos;s,_1011_2&apos;s. id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M -18.669827,-18.287519 L -15.909771,-21.378042"
+              class="id_We_have:_101_0&apos;s,_122_1&apos;s,_101_2&apos;s. id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.953903,30.055387 L -23.108948,30.959351"
+              class="id_We_have:_101_0&apos;s,_200_1&apos;s,_102_2&apos;s. id_We_have:_12_0&apos;s,_112_1&apos;s,_22_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.14285715"
+              d="M 37.555336,40.444172 L 32.364357,36.771046"
+              class="id_We_have:_101_0&apos;s,_200_1&apos;s,_21_2&apos;s. id_We_have:_20_0&apos;s,_112_1&apos;s,_11_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 59.076046,-6.937257 L 58.592628,-9.903758"
+              class="id_We_have:_1010_0&apos;s,_1112_1&apos;s,_1012_2&apos;s. id_We_have:_222_0&apos;s,_1020_1&apos;s,_1002_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.705803,-19.583576 L 69.538895,-18.089523"
+              class="id_We_have:_1010_0&apos;s,_1121_1&apos;s,_1010_2&apos;s. id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 38.580437,-86.494232 L 38.751801,-83.481056"
+              class="id_We_have:_1011_0&apos;s,_1121_1&apos;s,_1010_2&apos;s. id_We_have:_1000_0&apos;s,_1021_1&apos;s,_1001_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M -3.744400,102.465317 L -5.996932,99.150711"
+              class="id_We_have:_1011_0&apos;s,_2000_1&apos;s,_1022_2&apos;s. id_We_have:_221_0&apos;s,_1211_1&apos;s,_1011_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.37857142"
+              d="M -24.209120,-26.391376 L -16.884222,-23.593609"
+              class="id_We_have:_102_0&apos;s,_120_1&apos;s,_102_2&apos;s. id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M -25.740025,47.862537 L -20.495914,46.899620"
+              class="id_We_have:_102_0&apos;s,_200_1&apos;s,_101_2&apos;s. id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.27142859"
+              d="M -70.357384,-24.582359 L -63.811176,-26.274841"
+              class="id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s. id_We_have:_1001_0&apos;s,_1021_1&apos;s,_1000_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -0.747014,106.460373 L -2.406499,104.304108"
+              class="id_We_have:_1022_0&apos;s,_2020_1&apos;s,_1111_2&apos;s. id_We_have:_1011_0&apos;s,_2000_1&apos;s,_1022_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.20714286"
+              d="M 21.558222,29.150440 L 14.301972,22.046179"
+              class="id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2. id_We_have:_1_0,_11_1&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.983959,32.680401 L -8.217810,24.700232"
+              class="id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s. id_We_have:_1_0,_11_1&apos;s,_2_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -23.283861,4.939927 L -20.294014,5.016916"
+              class="id_We_have:_11_0&apos;s,_101_1&apos;s,_20_2&apos;s. id_We_have:_1_0,_12_1&apos;s,_11_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 25.818666,8.192903 L 23.648272,6.076477"
+              class="id_We_have:_11_0&apos;s,_110_1&apos;s,_21_2&apos;s. id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.55"
+              d="M 22.009539,-39.538013 L 13.724323,-32.040531"
+              class="id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s. id_We_have:_22_0&apos;s,_100_1&apos;s,_22_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.27142859"
+              d="M -16.974392,56.341053 L -18.494669,48.520096"
+              class="id_We_have:_110_0&apos;s,_200_1&apos;s,_100_2&apos;s. id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.294722,-14.835916 L -20.274929,-16.679440"
+              class="id_We_have:_110_0&apos;s,_212_1&apos;s,_112_2&apos;s. id_We_have:_101_0&apos;s,_122_1&apos;s,_101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -72.905449,-28.615005 L -72.041580,-25.695313"
+              class="id_We_have:_1101_0&apos;s,_1202_1&apos;s,_1022_2&apos;s. id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -79.617401,-19.632162 L -73.137299,-23.377644"
+              class="id_We_have:_1101_0&apos;s,_1211_1&apos;s,_1020_2&apos;s. id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.18571429"
+              d="M 13.077811,-49.712879 L 21.710209,-42.159100"
+              class="id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s. id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M 43.598248,44.725433 L 39.508121,41.827065"
+              class="id_We_have:_111_0&apos;s,_220_1&apos;s,_101_2&apos;s. id_We_have:_101_0&apos;s,_200_1&apos;s,_21_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -31.117184,48.846519 L -27.977783,48.272491"
+              class="id_We_have:_111_0&apos;s,_220_1&apos;s,_112_2&apos;s. id_We_have:_102_0&apos;s,_200_1&apos;s,_101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.20714286"
+              d="M -89.260796,-14.466357 L -82.126144,-18.250967"
+              class="id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s. id_We_have:_1101_0&apos;s,_1211_1&apos;s,_1020_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.25"
+              d="M 32.630779,-51.710339 L 24.813543,-42.482769"
+              class="id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s. id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.25"
+              d="M -14.703080,66.630501 L -16.332094,59.373463"
+              class="id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s. id_We_have:_110_0&apos;s,_200_1&apos;s,_100_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M -91.134529,-6.555531 L -90.469231,-12.488439"
+              class="id_We_have:_1121_0&apos;s,_2022_1&apos;s,_1122_2&apos;s. id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M -97.796867,-14.245488 L -91.738762,-13.973937"
+              class="id_We_have:_1121_0&apos;s,_2110_1&apos;s,_1111_2&apos;s. id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 21.564421,34.225090 L 22.136629,31.342148"
+              class="id_We_have:_12_0&apos;s,_112_1&apos;s,_12_2&apos;s. id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M -20.955311,31.690832 L -16.537172,33.308624"
+              class="id_We_have:_12_0&apos;s,_112_1&apos;s,_22_2&apos;s. id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.9785714"
+              d="M 0.036035,-17.877111 L 0.982467,-11.819635"
+              class="id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s. id_We_have:_10_0&apos;s,_10_1&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M -33.816837,-28.672234 L -27.752203,-27.380733"
+              class="id_We_have:_120_0&apos;s,_201_1&apos;s,_120_2&apos;s. id_We_have:_102_0&apos;s,_120_1&apos;s,_102_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.25"
+              d="M 34.723522,-32.973400 L 25.224997,-39.448864"
+              class="id_We_have:_120_0&apos;s,_210_1&apos;s,_111_2&apos;s. id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -91.735435,-18.452072 L -90.725327,-15.233715"
+              class="id_We_have:_1200_0&apos;s,_2101_1&apos;s,_1111_2&apos;s. id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -91.822914,-1.224815 L -91.413551,-4.297829"
+              class="id_We_have:_1201_0&apos;s,_2120_1&apos;s,_1211_2&apos;s. id_We_have:_1121_0&apos;s,_2022_1&apos;s,_1122_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -103.087418,-14.610684 L -100.067368,-14.384408"
+              class="id_We_have:_1201_0&apos;s,_2122_1&apos;s,_1202_2&apos;s. id_We_have:_1121_0&apos;s,_2110_1&apos;s,_1111_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M 5.653877,-56.547512 L 11.190707,-51.416893"
+              class="id_We_have:_121_0&apos;s,_1010_1&apos;s,_121_2&apos;s. id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.20714286"
+              d="M -13.894770,76.119293 L -14.318792,69.535667"
+              class="id_We_have:_121_0&apos;s,_1011_1&apos;s,_122_2&apos;s. id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.18571429"
+              d="M 36.314445,-63.066868 L 33.881424,-54.248711"
+              class="id_We_have:_121_0&apos;s,_221_1&apos;s,_202_2&apos;s. id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.33571428"
+              d="M -42.871792,-29.417919 L -37.352894,-29.097288"
+              class="id_We_have:_122_0&apos;s,_212_1&apos;s,_210_2&apos;s. id_We_have:_120_0&apos;s,_201_1&apos;s,_120_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 46.040390,-25.963415 L 37.232716,-31.363417"
+              class="id_We_have:_122_0&apos;s,_221_1&apos;s,_201_2&apos;s. id_We_have:_120_0&apos;s,_210_1&apos;s,_111_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.406489,9.689252 L -11.430044,7.125993"
+              class="id_We_have:_2_0&apos;s,_10_1&apos;s,_12_2&apos;s. id_We_have:_2_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 15.915776,-5.847784 L 15.028055,-3.424000"
+              class="id_We_have:_2_0&apos;s,_111_1&apos;s,_21_2&apos;s. id_We_have:_1_0,_22_1&apos;s,_11_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 3.002971,17.212084 L 2.602179,13.608522"
+              class="id_We_have:_2_0&apos;s,_2_1&apos;s,_10_2&apos;s. id_We_have_no_digits."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.14285715"
+              d="M 21.664547,5.092371 L 15.029956,4.510210"
+              class="id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s. id_We_have:_11_1&apos;s,_1_2."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.16428572"
+              d="M 30.302408,35.338760 L 23.661280,30.832449"
+              class="id_We_have:_20_0&apos;s,_112_1&apos;s,_11_2&apos;s. id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.33571428"
+              d="M -18.443865,45.253277 L -15.536288,36.011669"
+              class="id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s. id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -2.845288,-1.707813 L -1.060184,-0.632738"
+              class="id_We_have:_20_0&apos;s,_12_1&apos;s,_20_2&apos;s. id_We_have:_10_0&apos;s,_10_1&apos;s,_2_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 27.078548,3.382770 L 23.912937,4.697353"
+              class="id_We_have:_20_0&apos;s,_22_1&apos;s,_100_2&apos;s. id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 12.902181,-55.249153 L 12.405234,-51.806335"
+              class="id_We_have:_200_0&apos;s,_1001_1&apos;s,_121_2&apos;s. id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 47.887398,47.757561 L 45.455452,46.039360"
+              class="id_We_have:_200_0&apos;s,_1002_1&apos;s,_111_2&apos;s. id_We_have:_111_0&apos;s,_220_1&apos;s,_101_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M 40.285446,-52.565639 L 34.952015,-52.649864"
+              class="id_We_have:_200_0&apos;s,_212_1&apos;s,_202_2&apos;s. id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 7.587447,-49.056545 L 10.921332,-50.075569"
+              class="id_We_have:_200_0&apos;s,_221_1&apos;s,_200_2&apos;s. id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -10.036585,68.210335 L -12.968637,67.977913"
+              class="id_We_have:_200_0&apos;s,_222_1&apos;s,_201_2&apos;s. id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.18571429"
+              d="M -12.485044,84.259636 L -13.524929,78.835381"
+              class="id_We_have:_201_0&apos;s,_1022_1&apos;s,_212_2&apos;s. id_We_have:_121_0&apos;s,_1011_1&apos;s,_122_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.16428572"
+              d="M 39.258507,-73.148125 L 37.037399,-65.593971"
+              class="id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s. id_We_have:_121_0&apos;s,_221_1&apos;s,_202_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 1.527647,-60.482254 L 4.000013,-58.109554"
+              class="id_We_have:_202_0&apos;s,_1021_1&apos;s,_210_2&apos;s. id_We_have:_121_0&apos;s,_1010_1&apos;s,_121_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.44285715"
+              d="M -13.103661,-22.491594 L -3.733054,-20.942516"
+              class="id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s. id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.31428573"
+              d="M -51.732063,-28.752188 L -46.312786,-29.296036"
+              class="id_We_have:_210_0&apos;s,_1001_1&apos;s,_221_2&apos;s. id_We_have:_122_0&apos;s,_212_1&apos;s,_210_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.20714286"
+              d="M 56.969822,-19.323996 L 48.486137,-24.472633"
+              class="id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s. id_We_have:_122_0&apos;s,_221_1&apos;s,_201_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 45.680595,-52.631638 L 42.560097,-52.572647"
+              class="id_We_have:_211_0&apos;s,_1001_1&apos;s,_220_2&apos;s. id_We_have:_200_0&apos;s,_212_1&apos;s,_202_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.16428572"
+              d="M -10.303164,91.141472 L -11.790484,86.788231"
+              class="id_We_have:_212_0&apos;s,_1112_1&apos;s,_1000_2&apos;s. id_We_have:_201_0&apos;s,_1022_1&apos;s,_212_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.5714286"
+              d="M 10.140021,-28.925951 L 2.498835,-22.707294"
+              class="id_We_have:_22_0&apos;s,_100_1&apos;s,_22_2&apos;s. id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 43.960484,-75.822540 L 40.804775,-74.666809"
+              class="id_We_have:_221_0&apos;s,_1020_1&apos;s,_1010_2&apos;s. id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.14285715"
+              d="M 67.317429,-17.664913 L 59.449097,-18.544271"
+              class="id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s. id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.14285715"
+              d="M -7.253160,97.117386 L -9.272993,93.421188"
+              class="id_We_have:_221_0&apos;s,_1211_1&apos;s,_1011_2&apos;s. id_We_have:_212_0&apos;s,_1112_1&apos;s,_1000_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.12142857"
+              d="M 58.337769,-12.161144 L 58.061958,-17.279613"
+              class="id_We_have:_222_0&apos;s,_1020_1&apos;s,_1002_2&apos;s. id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s."
+              stroke-opacity="1.0" stroke="#000000"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_2_2&apos;s. id_We_have_no_digits."
+                  points="-1.728605,8.409543 -2.135215,8.493907 -2.040063,8.134873"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_11_1&apos;s,_1_2. id_We_have_no_digits."
+                  points="5.796089,7.816319 6.091185,7.459306 6.258758,7.838188"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_2_1&apos;s,_12_2&apos;s. id_We_have:_2_2&apos;s."
+                  points="-10.840438,4.931112 -10.979156,4.755735 -10.783367,4.714911"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1_0,_11_1&apos;s. id_We_have_no_digits."
+                  points="4.906232,12.321546 5.387599,12.493331 5.057623,12.809711"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1_0,_11_1&apos;s,_2_2&apos;s. id_We_have_no_digits."
+                  points="-0.093162,12.754249 -0.213497,13.688877 -0.913066,13.218758"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1_0,_12_1&apos;s,_11_2&apos;s. id_We_have:_2_2&apos;s."
+                  points="-11.747605,5.920685 -12.003137,6.012492 -11.974370,5.771345"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1_0,_22_1&apos;s,_11_2&apos;s. id_We_have:_11_1&apos;s,_1_2."
+                  points="13.746057,3.208226 13.663652,2.949510 13.903587,2.987074"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_10_0&apos;s,_10_1&apos;s. id_We_have_no_digits."
+                  points="2.029268,5.435738 0.975315,3.463637 2.974577,3.409315"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_10_0&apos;s,_10_1&apos;s,_2_2&apos;s. id_We_have_no_digits."
+                  points="1.253337,5.533298 1.081208,5.323306 1.318053,5.269600"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_100_0&apos;s,_110_1&apos;s,_12_2&apos;s. id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s."
+                  points="-1.269347,-22.751495 -1.434653,-22.902075 -1.248068,-22.974089"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1000_0&apos;s,_1021_1&apos;s,_1001_2&apos;s. id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s."
+                  points="39.468834,-75.323120 39.325340,-75.553627 39.567146,-75.576225"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1001_0&apos;s,_1021_1&apos;s,_1000_2&apos;s. id_We_have:_210_0&apos;s,_1001_1&apos;s,_221_2&apos;s."
+                  points="-54.445770,-28.331961 -54.958691,-27.924849 -55.079212,-28.498030"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1002_0&apos;s,_1121_1&apos;s,_1011_2&apos;s. id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s."
+                  points="69.191368,-16.833719 69.407463,-16.776230 69.275032,-16.626354"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_101_0&apos;s,_122_1&apos;s,_101_2&apos;s. id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s."
+                  points="-15.748003,-21.559179 -15.819202,-21.297157 -16.000340,-21.458927"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_101_0&apos;s,_200_1&apos;s,_102_2&apos;s. id_We_have:_12_0&apos;s,_112_1&apos;s,_22_2&apos;s."
+                  points="-22.918339,31.019915 -23.139231,31.054655 -23.078665,30.864046"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_101_0&apos;s,_200_1&apos;s,_21_2&apos;s. id_We_have:_20_0&apos;s,_112_1&apos;s,_11_2&apos;s."
+                  points="32.131126,36.606014 32.446873,36.654430 32.281841,36.887661"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1010_0&apos;s,_1112_1&apos;s,_1012_2&apos;s. id_We_have:_222_0&apos;s,_1020_1&apos;s,_1002_2&apos;s."
+                  points="58.560459,-10.101154 58.691326,-9.919842 58.493931,-9.887674"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1010_0&apos;s,_1121_1&apos;s,_1010_2&apos;s. id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s."
+                  points="69.358017,-18.004189 69.496231,-18.179964 69.581558,-17.999083"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1011_0&apos;s,_1121_1&apos;s,_1010_2&apos;s. id_We_have:_1000_0&apos;s,_1021_1&apos;s,_1001_2&apos;s."
+                  points="38.763157,-83.281380 38.651962,-83.475380 38.851639,-83.486732"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1011_0&apos;s,_2000_1&apos;s,_1022_2&apos;s. id_We_have:_221_0&apos;s,_1211_1&apos;s,_1011_2&apos;s."
+                  points="-6.133435,98.949844 -5.896500,99.082458 -6.097364,99.218964"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_102_0&apos;s,_120_1&apos;s,_102_2&apos;s. id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s."
+                  points="-16.176918,-23.323450 -17.019300,-23.239956 -16.749144,-23.947262"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_102_0&apos;s,_200_1&apos;s,_101_2&apos;s. id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s."
+                  points="-20.257051,46.855762 -20.473984,47.019051 -20.517845,46.780190"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s. id_We_have:_1001_0&apos;s,_1021_1&apos;s,_1000_2&apos;s."
+                  points="-63.285603,-26.410727 -63.743233,-26.012054 -63.879120,-26.537628"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1022_0&apos;s,_2020_1&apos;s,_1111_2&apos;s. id_We_have:_1011_0&apos;s,_2000_1&apos;s,_1022_2&apos;s."
+                  points="-2.528479,104.145615 -2.327251,104.243118 -2.485747,104.365097"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2. id_We_have:_1_0,_11_1&apos;s."
+                  points="14.005944,21.756351 14.446886,21.898165 14.157059,22.194193"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s. id_We_have:_1_0,_11_1&apos;s,_2_2&apos;s."
+                  points="-7.749274,24.051792 -7.893590,24.934500 -8.542029,24.465963"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_11_0&apos;s,_101_1&apos;s,_20_2&apos;s. id_We_have:_1_0,_12_1&apos;s,_11_2&apos;s."
+                  points="-20.094082,5.022065 -20.296589,5.116883 -20.291439,4.916949"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_11_0&apos;s,_110_1&apos;s,_21_2&apos;s. id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s."
+                  points="23.505081,5.936847 23.718086,6.004882 23.578457,6.148072"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s. id_We_have:_22_0&apos;s,_100_1&apos;s,_22_2&apos;s."
+                  points="12.908699,-31.302456 13.355285,-32.448341 14.093362,-31.632719"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_110_0&apos;s,_200_1&apos;s,_100_2&apos;s. id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s."
+                  points="-18.598253,47.987213 -18.228228,48.468304 -18.761110,48.571888"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_110_0&apos;s,_212_1&apos;s,_112_2&apos;s. id_We_have:_101_0&apos;s,_122_1&apos;s,_101_2&apos;s."
+                  points="-20.127209,-16.814268 -20.207516,-16.605579 -20.342342,-16.753300"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1101_0&apos;s,_1202_1&apos;s,_1022_2&apos;s. id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s."
+                  points="-71.984833,-25.503532 -72.137474,-25.666941 -71.945686,-25.723684"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1101_0&apos;s,_1211_1&apos;s,_1020_2&apos;s. id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s."
+                  points="-72.741516,-23.606407 -73.022919,-23.179750 -73.251678,-23.575537"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s. id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s."
+                  points="21.989729,-41.914505 21.587912,-42.019341 21.832506,-42.298859"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_111_0&apos;s,_220_1&apos;s,_101_2&apos;s. id_We_have:_101_0&apos;s,_200_1&apos;s,_21_2&apos;s."
+                  points="39.309971,41.686649 39.578327,41.727989 39.437916,41.926140"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_111_0&apos;s,_220_1&apos;s,_112_2&apos;s. id_We_have:_102_0&apos;s,_200_1&apos;s,_101_2&apos;s."
+                  points="-27.781046,48.236519 -27.959797,48.370861 -27.995770,48.174122"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s. id_We_have:_1101_0&apos;s,_1211_1&apos;s,_1020_2&apos;s."
+                  points="-81.760162,-18.445105 -82.029076,-18.067976 -82.223213,-18.433958"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s. id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s."
+                  points="24.490349,-42.101265 24.622791,-42.644367 25.004295,-42.321171"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s. id_We_have:_110_0&apos;s,_200_1&apos;s,_100_2&apos;s."
+                  points="-16.441605,58.885605 -16.088163,59.318707 -16.576025,59.428219"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1121_0&apos;s,_2022_1&apos;s,_1122_2&apos;s. id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s."
+                  points="-90.442169,-12.729783 -90.348557,-12.474907 -90.589905,-12.501970"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1121_0&apos;s,_2110_1&apos;s,_1111_2&apos;s. id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s."
+                  points="-91.496147,-13.963062 -91.744202,-13.852631 -91.733322,-14.095243"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_12_0&apos;s,_112_1&apos;s,_12_2&apos;s. id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2."
+                  points="22.175566,31.145973 22.234716,31.361616 22.038542,31.322680"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_12_0&apos;s,_112_1&apos;s,_22_2&apos;s. id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s."
+                  points="-16.309122,33.392128 -16.578924,33.422649 -16.495420,33.194599"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s. id_We_have:_10_0&apos;s,_10_1&apos;s."
+                  points="1.284589,-9.885952 0.015625,-11.668574 1.949308,-11.970696"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_120_0&apos;s,_201_1&apos;s,_120_2&apos;s. id_We_have:_102_0&apos;s,_120_1&apos;s,_102_2&apos;s."
+                  points="-27.053583,-27.231958 -27.826591,-27.031424 -27.677814,-27.730043"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_120_0&apos;s,_210_1&apos;s,_111_2&apos;s. id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s."
+                  points="24.811867,-39.730511 25.365818,-39.655430 25.084175,-39.242298"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1200_0&apos;s,_2101_1&apos;s,_1111_2&apos;s. id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s."
+                  points="-90.665436,-15.042892 -90.820740,-15.203770 -90.629913,-15.263660"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1201_0&apos;s,_2120_1&apos;s,_1211_2&apos;s. id_We_have:_1121_0&apos;s,_2022_1&apos;s,_1122_2&apos;s."
+                  points="-91.387146,-4.496078 -91.314430,-4.284624 -91.512672,-4.311033"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_1201_0&apos;s,_2122_1&apos;s,_1202_2&apos;s. id_We_have:_1121_0&apos;s,_2110_1&apos;s,_1111_2&apos;s."
+                  points="-99.867928,-14.369465 -100.074837,-14.284687 -100.059898,-14.484129"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_121_0&apos;s,_1010_1&apos;s,_121_2&apos;s. id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s."
+                  points="11.368843,-51.251827 11.108173,-51.327824 11.273241,-51.505962"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_121_0&apos;s,_1011_1&apos;s,_122_2&apos;s. id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s."
+                  points="-14.345419,69.122238 -14.112078,69.522354 -14.525507,69.548981"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_121_0&apos;s,_221_1&apos;s,_202_2&apos;s. id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s."
+                  points="33.782635,-53.890659 33.702400,-54.298107 34.060448,-54.199314"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_122_0&apos;s,_212_1&apos;s,_210_2&apos;s. id_We_have:_120_0&apos;s,_201_1&apos;s,_120_2&apos;s."
+                  points="-36.682594,-29.058346 -37.372364,-28.762138 -37.333424,-29.432438"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_122_0&apos;s,_221_1&apos;s,_201_2&apos;s. id_We_have:_120_0&apos;s,_210_1&apos;s,_111_2&apos;s."
+                  points="36.842987,-31.602360 37.352188,-31.558279 37.113243,-31.168554"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_2_0&apos;s,_10_1&apos;s,_12_2&apos;s. id_We_have:_2_2&apos;s."
+                  points="-11.307920,6.967608 -11.350852,7.187055 -11.509236,7.064930"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_2_0&apos;s,_111_1&apos;s,_21_2&apos;s. id_We_have:_1_0,_22_1&apos;s,_11_2&apos;s."
+                  points="14.959272,-3.236199 14.934155,-3.458391 15.121955,-3.389608"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_2_0&apos;s,_2_1&apos;s,_10_2&apos;s. id_We_have_no_digits."
+                  points="2.580070,13.409749 2.701566,13.597468 2.502791,13.619576"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s. id_We_have:_11_1&apos;s,_1_2."
+                  points="14.745336,4.485235 15.042443,4.367899 15.017468,4.652520"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_20_0&apos;s,_112_1&apos;s,_11_2&apos;s. id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2."
+                  points="23.389391,30.647961 23.753525,30.696505 23.569035,30.968393"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s. id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s."
+                  points="-15.334782,35.371189 -15.216049,36.112423 -15.856527,35.910915"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_20_0&apos;s,_12_1&apos;s,_20_2&apos;s. id_We_have:_10_0&apos;s,_10_1&apos;s,_2_2&apos;s."
+                  points="-0.888855,-0.529556 -1.111775,-0.547074 -1.008593,-0.718402"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_20_0&apos;s,_22_1&apos;s,_100_2&apos;s. id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s."
+                  points="23.728231,4.774056 23.874586,4.605000 23.951288,4.789707"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_200_0&apos;s,_1001_1&apos;s,_121_2&apos;s. id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s."
+                  points="12.376661,-51.608387 12.306260,-51.820621 12.504209,-51.792049"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_200_0&apos;s,_1002_1&apos;s,_111_2&apos;s. id_We_have:_111_0&apos;s,_220_1&apos;s,_101_2&apos;s."
+                  points="45.292107,45.923954 45.513153,45.957687 45.397751,46.121033"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_200_0&apos;s,_212_1&apos;s,_202_2&apos;s. id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s."
+                  points="34.709190,-52.653698 34.953934,-52.771278 34.950096,-52.528450"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_200_0&apos;s,_221_1&apos;s,_200_2&apos;s. id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s."
+                  points="11.112597,-50.134029 10.950563,-49.979939 10.892101,-50.171200"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_200_0&apos;s,_222_1&apos;s,_201_2&apos;s. id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s."
+                  points="-13.168011,67.962112 -12.960734,67.878227 -12.976539,68.077599"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_201_0&apos;s,_1022_1&apos;s,_212_2&apos;s. id_We_have:_121_0&apos;s,_1011_1&apos;s,_122_2&apos;s."
+                  points="-13.594862,78.470596 -13.342536,78.800415 -13.707322,78.870346"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s. id_We_have:_121_0&apos;s,_221_1&apos;s,_202_2&apos;s."
+                  points="36.944714,-65.278740 36.879784,-65.640312 37.195015,-65.547630"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_202_0&apos;s,_1021_1&apos;s,_210_2&apos;s. id_We_have:_121_0&apos;s,_1010_1&apos;s,_121_2&apos;s."
+                  points="4.144313,-57.971069 3.930771,-58.037403 4.069254,-58.181705"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s. id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s."
+                  points="-2.859199,-20.798058 -3.805283,-20.505589 -3.660824,-21.379444"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_210_0&apos;s,_1001_1&apos;s,_221_2&apos;s. id_We_have:_122_0&apos;s,_212_1&apos;s,_210_2&apos;s."
+                  points="-45.687355,-29.358801 -46.281403,-28.983320 -46.344170,-29.608751"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s. id_We_have:_122_0&apos;s,_221_1&apos;s,_201_2&apos;s."
+                  points="48.131969,-24.687572 48.593605,-24.649717 48.378670,-24.295549"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_211_0&apos;s,_1001_1&apos;s,_220_2&apos;s. id_We_have:_200_0&apos;s,_212_1&apos;s,_202_2&apos;s."
+                  points="42.360134,-52.568867 42.558208,-52.672630 42.561985,-52.472664"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_212_0&apos;s,_1112_1&apos;s,_1000_2&apos;s. id_We_have:_201_0&apos;s,_1022_1&apos;s,_212_2&apos;s."
+                  points="-11.896714,86.477303 -11.635022,86.735115 -11.945947,86.841347"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_22_0&apos;s,_100_1&apos;s,_22_2&apos;s. id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s."
+                  points="1.612427,-21.985905 2.138140,-23.150499 2.859530,-22.264090"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_221_0&apos;s,_1020_1&apos;s,_1010_2&apos;s. id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s."
+                  points="40.616974,-74.598030 40.770386,-74.760712 40.839165,-74.572906"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s. id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s."
+                  points="59.165150,-18.576006 59.464962,-18.686245 59.433231,-18.402298"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_221_0&apos;s,_1211_1&apos;s,_1011_2&apos;s. id_We_have:_212_0&apos;s,_1112_1&apos;s,_1000_2&apos;s."
+                  points="-9.410003,93.170464 -9.147633,93.352684 -9.398354,93.489693"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="1.0"
+                  class="id_We_have:_222_0&apos;s,_1020_1&apos;s,_1002_2&apos;s. id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s."
+                  points="58.048893,-17.522120 58.183212,-17.286148 57.940704,-17.273079"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#000000" r="1.058" cx="-10.605701"
+                class="id_We_have:_2_2&apos;s." cy="6.0569" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18399999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="3.68" cx="2.1379116"
+                class="id_We_have_no_digits." cy="9.434262" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.64"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0925" cx="13.562381"
+                class="id_We_have:_11_1&apos;s,_1_2." cy="4.3814354"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.19"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-11.751015"
+                class="id_We_have:_2_1&apos;s,_12_2&apos;s." cy="0.56401837"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.127" cx="13.13062"
+                class="id_We_have:_1_0,_11_1&apos;s." cy="20.89936"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.196"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.4375" cx="-6.8341637"
+                class="id_We_have:_1_0,_11_1&apos;s,_2_2&apos;s." cy="22.785309"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.25"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-19.056925"
+                class="id_We_have:_1_0,_12_1&apos;s,_11_2&apos;s." cy="5.048772"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="14.602463"
+                class="id_We_have:_1_0,_22_1&apos;s,_11_2&apos;s."
+                cy="-2.2619853" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="2.3689997" cx="1.6820899"
+                class="id_We_have:_10_0&apos;s,_10_1&apos;s." cy="-7.3418183"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.41199997"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-8.8816174E-5"
+                class="id_We_have:_10_0&apos;s,_10_1&apos;s,_2_2&apos;s."
+                cy="0.0057018218" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-2.730728"
+                class="id_We_have:_100_0&apos;s,_110_1&apos;s,_12_2&apos;s."
+                cy="-26.537903" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="2.3344998" cx="-0.35567707"
+                class="id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s."
+                cy="-20.384195" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.406"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="38.822067"
+                class="id_We_have:_1000_0&apos;s,_1021_1&apos;s,_1001_2&apos;s."
+                cy="-82.24555" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0235" cx="39.572327"
+                class="id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s."
+                cy="-74.21545" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.17799999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.2305" cx="-61.99068"
+                class="id_We_have:_1001_0&apos;s,_1021_1&apos;s,_1000_2&apos;s."
+                cy="-26.74552" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.21399999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.265" cx="-53.100193"
+                class="id_We_have:_210_0&apos;s,_1001_1&apos;s,_221_2&apos;s."
+                cy="-28.61489" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.22"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="72.822624"
+                class="id_We_have:_1002_0&apos;s,_1121_1&apos;s,_1011_2&apos;s."
+                cy="-13.625245" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.989" cx="68.38578"
+                class="id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s."
+                cy="-17.545515" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.172"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-19.36091"
+                class="id_We_have:_101_0&apos;s,_122_1&apos;s,_101_2&apos;s."
+                cy="-17.51369" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.472" cx="-14.682236"
+                class="id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s."
+                cy="-22.752552" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.256"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-26.90695"
+                class="id_We_have:_101_0&apos;s,_200_1&apos;s,_102_2&apos;s."
+                cy="29.752563" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-21.929552"
+                class="id_We_have:_12_0&apos;s,_112_1&apos;s,_22_2&apos;s."
+                cy="31.334095" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.989" cx="38.432865"
+                class="id_We_have:_101_0&apos;s,_200_1&apos;s,_21_2&apos;s."
+                cy="41.06511" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.172"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0235" cx="31.222986"
+                class="id_We_have:_20_0&apos;s,_112_1&apos;s,_11_2&apos;s."
+                cy="35.963413" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.17799999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="59.23688"
+                class="id_We_have:_1010_0&apos;s,_1112_1&apos;s,_1012_2&apos;s."
+                cy="-5.9502764" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="58.393593"
+                class="id_We_have:_222_0&apos;s,_1020_1&apos;s,_1002_2&apos;s."
+                cy="-11.125147" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="73.61021"
+                class="id_We_have:_1010_0&apos;s,_1121_1&apos;s,_1010_2&apos;s."
+                cy="-20.010248" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="38.52366"
+                class="id_We_have:_1011_0&apos;s,_1121_1&apos;s,_1010_2&apos;s."
+                cy="-87.49262" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-3.16125"
+                class="id_We_have:_1011_0&apos;s,_2000_1&apos;s,_1022_2&apos;s."
+                cy="103.32342" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.989" cx="-6.737662"
+                class="id_We_have:_221_0&apos;s,_1211_1&apos;s,_1011_2&apos;s."
+                cy="98.06072" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.172"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.3685" cx="-25.598707"
+                class="id_We_have:_102_0&apos;s,_120_1&apos;s,_102_2&apos;s."
+                cy="-26.922134" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.23799999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-26.760466"
+                class="id_We_have:_102_0&apos;s,_200_1&apos;s,_101_2&apos;s."
+                cy="48.049908" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.2995" cx="-18.867777"
+                class="id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s."
+                cy="46.600666" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.226"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.196" cx="-71.616"
+                class="id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s."
+                cy="-24.256952" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.20799999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-0.13711476"
+                class="id_We_have:_1022_0&apos;s,_2020_1&apos;s,_1111_2&apos;s."
+                cy="107.25285" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0925" cx="22.406752"
+                class="id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2."
+                cy="29.981195" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.19"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.403" cx="-14.877107"
+                class="id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s."
+                cy="33.91649" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.24399999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-24.28353"
+                class="id_We_have:_11_0&apos;s,_101_1&apos;s,_20_2&apos;s."
+                cy="4.914185" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="26.534618"
+                class="id_We_have:_11_0&apos;s,_110_1&apos;s,_21_2&apos;s."
+                cy="8.891052" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.989" cx="22.735432"
+                class="id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s."
+                cy="5.1863365" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.172"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.6444999" cx="23.334927"
+                class="id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s."
+                cy="-40.73739" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.28599998"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.679" cx="11.555505"
+                class="id_We_have:_22_0&apos;s,_100_1&apos;s,_22_2&apos;s."
+                cy="-30.077919" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.292"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.196" cx="-16.726336"
+                class="id_We_have:_110_0&apos;s,_200_1&apos;s,_100_2&apos;s."
+                cy="57.61717" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.20799999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-23.033323"
+                class="id_We_have:_110_0&apos;s,_212_1&apos;s,_112_2&apos;s."
+                cy="-14.161773" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-73.18917"
+                class="id_We_have:_1101_0&apos;s,_1202_1&apos;s,_1022_2&apos;s."
+                cy="-29.573914" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.127" cx="-80.677986"
+                class="id_We_have:_1101_0&apos;s,_1211_1&apos;s,_1020_2&apos;s."
+                cy="-19.019148" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.196"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.058" cx="12.21237"
+                class="id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s."
+                cy="-50.470184" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.18399999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="44.444756"
+                class="id_We_have:_111_0&apos;s,_220_1&apos;s,_101_2&apos;s."
+                cy="45.32529" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-32.100876"
+                class="id_We_have:_111_0&apos;s,_220_1&apos;s,_112_2&apos;s."
+                cy="49.026382" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0925" cx="-90.30984"
+                class="id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s."
+                cy="-13.909886" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.19"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.1615001" cx="33.446846"
+                class="id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s."
+                cy="-52.673634" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.202"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.1615001" cx="-14.426563"
+                class="id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s."
+                cy="67.86235" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.202"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-91.250145"
+                class="id_We_have:_1121_0&apos;s,_2022_1&apos;s,_1122_2&apos;s."
+                cy="-5.5244927" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="-98.83333"
+                class="id_We_have:_1121_0&apos;s,_2110_1&apos;s,_1111_2&apos;s."
+                cy="-14.291947" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="21.369738"
+                class="id_We_have:_12_0&apos;s,_112_1&apos;s,_12_2&apos;s."
+                cy="35.205956" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.334" cx="-35.235035"
+                class="id_We_have:_120_0&apos;s,_201_1&apos;s,_120_2&apos;s."
+                cy="-28.974247" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.23200001"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.1615001" cx="35.766674"
+                class="id_We_have:_120_0&apos;s,_210_1&apos;s,_111_2&apos;s."
+                cy="-32.26225" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.202"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-92.03489"
+                class="id_We_have:_1200_0&apos;s,_2101_1&apos;s,_1111_2&apos;s."
+                cy="-19.406183" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-91.95496"
+                class="id_We_have:_1201_0&apos;s,_2120_1&apos;s,_1211_2&apos;s."
+                cy="-0.23357119" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-104.084625"
+                class="id_We_have:_1201_0&apos;s,_2122_1&apos;s,_1202_2&apos;s."
+                cy="-14.6854" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="4.892869"
+                class="id_We_have:_121_0&apos;s,_1010_1&apos;s,_121_2&apos;s."
+                cy="-57.25269" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0925" cx="-13.818446"
+                class="id_We_have:_121_0&apos;s,_1011_1&apos;s,_122_2&apos;s."
+                cy="77.30434" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.19"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.058" cx="36.620316"
+                class="id_We_have:_121_0&apos;s,_221_1&apos;s,_202_2&apos;s."
+                cy="-64.175446" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.18399999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.2995" cx="-44.281914"
+                class="id_We_have:_122_0&apos;s,_212_1&apos;s,_210_2&apos;s."
+                cy="-29.499844" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.226"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.127" cx="47.084736"
+                class="id_We_have:_122_0&apos;s,_221_1&apos;s,_201_2&apos;s."
+                cy="-25.323126" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.196"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-14.017114"
+                class="id_We_have:_2_0&apos;s,_10_1&apos;s,_12_2&apos;s."
+                cy="10.481173" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="16.25969"
+                class="id_We_have:_2_0&apos;s,_111_1&apos;s,_21_2&apos;s."
+                cy="-6.786785" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="3.113511"
+                class="id_We_have:_2_0&apos;s,_2_1&apos;s,_10_2&apos;s."
+                cy="18.205956" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-3.7019308"
+                class="id_We_have:_20_0&apos;s,_12_1&apos;s,_20_2&apos;s."
+                cy="-2.2237234" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="28.002083"
+                class="id_We_have:_20_0&apos;s,_22_1&apos;s,_100_2&apos;s."
+                cy="2.9992533" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="13.045043"
+                class="id_We_have:_200_0&apos;s,_1001_1&apos;s,_121_2&apos;s."
+                cy="-56.238895" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="48.704124"
+                class="id_We_have:_200_0&apos;s,_1002_1&apos;s,_111_2&apos;s."
+                cy="48.334587" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.9545" cx="41.32282"
+                class="id_We_have:_200_0&apos;s,_212_1&apos;s,_202_2&apos;s."
+                cy="-52.549255" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.166"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="6.6311226"
+                class="id_We_have:_200_0&apos;s,_221_1&apos;s,_200_2&apos;s."
+                cy="-48.764236" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="-9.039712"
+                class="id_We_have:_200_0&apos;s,_222_1&apos;s,_201_2&apos;s."
+                cy="68.28935" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.058" cx="-12.268519"
+                class="id_We_have:_201_0&apos;s,_1022_1&apos;s,_212_2&apos;s."
+                cy="85.38907" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.18399999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="0.80614656"
+                class="id_We_have:_202_0&apos;s,_1021_1&apos;s,_210_2&apos;s."
+                cy="-61.174667" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0925" cx="57.984997"
+                class="id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s."
+                cy="-18.7079" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.19"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="46.680416"
+                class="id_We_have:_211_0&apos;s,_1001_1&apos;s,_220_2&apos;s."
+                cy="-52.65054" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#000000" r="1.0235" cx="-9.943483"
+                class="id_We_have:_212_0&apos;s,_1112_1&apos;s,_1000_2&apos;s."
+                cy="92.19422" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.17799999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="0.92" cx="44.89949"
+                class="id_We_have:_221_0&apos;s,_1020_1&apos;s,_1010_2&apos;s."
+                cy="-76.166435" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="0.16"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="1" x="-10.605701" y="6.239517" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_We_have:_2_2&apos;s.">
+            We have: 2 2&apos;s.
+        </text>
+        <text font-size="2" x="2.1379116" y="9.897478" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_We_have_no_digits.">
+            We have no digits.
+        </text>
+        <text font-size="1" x="13.562381" y="4.5965233" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_We_have:_11_1&apos;s,_1_2.">
+            We have: 11 1&apos;s, 1 2.
+        </text>
+        <text font-size="1" x="-11.751015" y="0.77910626" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_We_have:_2_1&apos;s,_12_2&apos;s.">
+            We have: 2 1&apos;s, 12 2&apos;s.
+        </text>
+        <text font-size="1" x="13.13062" y="21.114449" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_We_have:_1_0,_11_1&apos;s.">
+            We have: 1 0, 11 1&apos;s.
+        </text>
+        <text font-size="1" x="-6.8341637" y="23.000397" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1_0,_11_1&apos;s,_2_2&apos;s.">
+            We have: 1 0, 11 1&apos;s, 2 2&apos;s.
+        </text>
+        <text font-size="1" x="-19.056925" y="5.2638597" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1_0,_12_1&apos;s,_11_2&apos;s.">
+            We have: 1 0, 12 1&apos;s, 11 2&apos;s.
+        </text>
+        <text font-size="1" x="14.602463" y="-2.0468974" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1_0,_22_1&apos;s,_11_2&apos;s.">
+            We have: 1 0, 22 1&apos;s, 11 2&apos;s.
+        </text>
+        <text font-size="2" x="1.6820899" y="-6.9116426" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_We_have:_10_0&apos;s,_10_1&apos;s.">
+            We have: 10 0&apos;s, 10 1&apos;s.
+        </text>
+        <text font-size="1" x="-8.8816174E-5" y="0.22078972" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_10_0&apos;s,_10_1&apos;s,_2_2&apos;s.">
+            We have: 10 0&apos;s, 10 1&apos;s, 2 2&apos;s.
+        </text>
+        <text font-size="1" x="-2.730728" y="-26.322815" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_100_0&apos;s,_110_1&apos;s,_12_2&apos;s.">
+            We have: 100 0&apos;s, 110 1&apos;s, 12 2&apos;s.
+        </text>
+        <text font-size="2" x="-0.35567707" y="-19.95402" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_12_0&apos;s,_21_1&apos;s,_10_2&apos;s.">
+            We have: 12 0&apos;s, 21 1&apos;s, 10 2&apos;s.
+        </text>
+        <text font-size="1" x="38.822067" y="-82.030464" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1000_0&apos;s,_1021_1&apos;s,_1001_2&apos;s.">
+            We have: 1000 0&apos;s, 1021 1&apos;s, 1001 2&apos;s.
+        </text>
+        <text font-size="1" x="39.572327" y="-74.00036" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_202_0&apos;s,_1001_1&apos;s,_222_2&apos;s.">
+            We have: 202 0&apos;s, 1001 1&apos;s, 222 2&apos;s.
+        </text>
+        <text font-size="1" x="-61.99068" y="-26.530432" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1001_0&apos;s,_1021_1&apos;s,_1000_2&apos;s.">
+            We have: 1001 0&apos;s, 1021 1&apos;s, 1000 2&apos;s.
+        </text>
+        <text font-size="1" x="-53.100193" y="-28.399801" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_210_0&apos;s,_1001_1&apos;s,_221_2&apos;s.">
+            We have: 210 0&apos;s, 1001 1&apos;s, 221 2&apos;s.
+        </text>
+        <text font-size="1" x="72.822624" y="-13.410157" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1002_0&apos;s,_1121_1&apos;s,_1011_2&apos;s.">
+            We have: 1002 0&apos;s, 1121 1&apos;s, 1011 2&apos;s.
+        </text>
+        <text font-size="1" x="68.38578" y="-17.330427" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_221_0&apos;s,_1022_1&apos;s,_1001_2&apos;s.">
+            We have: 221 0&apos;s, 1022 1&apos;s, 1001 2&apos;s.
+        </text>
+        <text font-size="1" x="-19.36091" y="-17.298603" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_101_0&apos;s,_122_1&apos;s,_101_2&apos;s.">
+            We have: 101 0&apos;s, 122 1&apos;s, 101 2&apos;s.
+        </text>
+        <text font-size="1" x="-14.682236" y="-22.537464" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_21_0&apos;s,_102_1&apos;s,_21_2&apos;s.">
+            We have: 21 0&apos;s, 102 1&apos;s, 21 2&apos;s.
+        </text>
+        <text font-size="1" x="-26.90695" y="29.967651" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_101_0&apos;s,_200_1&apos;s,_102_2&apos;s.">
+            We have: 101 0&apos;s, 200 1&apos;s, 102 2&apos;s.
+        </text>
+        <text font-size="1" x="-21.929552" y="31.549183" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_12_0&apos;s,_112_1&apos;s,_22_2&apos;s.">
+            We have: 12 0&apos;s, 112 1&apos;s, 22 2&apos;s.
+        </text>
+        <text font-size="1" x="38.432865" y="41.280197" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_101_0&apos;s,_200_1&apos;s,_21_2&apos;s.">
+            We have: 101 0&apos;s, 200 1&apos;s, 21 2&apos;s.
+        </text>
+        <text font-size="1" x="31.222986" y="36.1785" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_20_0&apos;s,_112_1&apos;s,_11_2&apos;s.">
+            We have: 20 0&apos;s, 112 1&apos;s, 11 2&apos;s.
+        </text>
+        <text font-size="1" x="59.23688" y="-5.7351885" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1010_0&apos;s,_1112_1&apos;s,_1012_2&apos;s.">
+            We have: 1010 0&apos;s, 1112 1&apos;s, 1012 2&apos;s.
+        </text>
+        <text font-size="1" x="58.393593" y="-10.910059" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_222_0&apos;s,_1020_1&apos;s,_1002_2&apos;s.">
+            We have: 222 0&apos;s, 1020 1&apos;s, 1002 2&apos;s.
+        </text>
+        <text font-size="1" x="73.61021" y="-19.79516" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1010_0&apos;s,_1121_1&apos;s,_1010_2&apos;s.">
+            We have: 1010 0&apos;s, 1121 1&apos;s, 1010 2&apos;s.
+        </text>
+        <text font-size="1" x="38.52366" y="-87.277534" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1011_0&apos;s,_1121_1&apos;s,_1010_2&apos;s.">
+            We have: 1011 0&apos;s, 1121 1&apos;s, 1010 2&apos;s.
+        </text>
+        <text font-size="1" x="-3.16125" y="103.538506" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1011_0&apos;s,_2000_1&apos;s,_1022_2&apos;s.">
+            We have: 1011 0&apos;s, 2000 1&apos;s, 1022 2&apos;s.
+        </text>
+        <text font-size="1" x="-6.737662" y="98.27581" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_221_0&apos;s,_1211_1&apos;s,_1011_2&apos;s.">
+            We have: 221 0&apos;s, 1211 1&apos;s, 1011 2&apos;s.
+        </text>
+        <text font-size="1" x="-25.598707" y="-26.707047" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_102_0&apos;s,_120_1&apos;s,_102_2&apos;s.">
+            We have: 102 0&apos;s, 120 1&apos;s, 102 2&apos;s.
+        </text>
+        <text font-size="1" x="-26.760466" y="48.264996" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_102_0&apos;s,_200_1&apos;s,_101_2&apos;s.">
+            We have: 102 0&apos;s, 200 1&apos;s, 101 2&apos;s.
+        </text>
+        <text font-size="1" x="-18.867777" y="46.815754" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_20_0&apos;s,_112_1&apos;s,_21_2&apos;s.">
+            We have: 20 0&apos;s, 112 1&apos;s, 21 2&apos;s.
+        </text>
+        <text font-size="1" x="-71.616" y="-24.041864" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1020_0&apos;s,_1112_1&apos;s,_1010_2&apos;s.">
+            We have: 1020 0&apos;s, 1112 1&apos;s, 1010 2&apos;s.
+        </text>
+        <text font-size="1" x="-0.13711476" y="107.46794" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1022_0&apos;s,_2020_1&apos;s,_1111_2&apos;s.">
+            We have: 1022 0&apos;s, 2020 1&apos;s, 1111 2&apos;s.
+        </text>
+        <text font-size="1" x="22.406752" y="30.196283" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_11_0&apos;s,_100_1&apos;s,_1_2.">
+            We have: 11 0&apos;s, 100 1&apos;s, 1 2.
+        </text>
+        <text font-size="1" x="-14.877107" y="34.131577" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_11_0&apos;s,_101_1&apos;s,_10_2&apos;s.">
+            We have: 11 0&apos;s, 101 1&apos;s, 10 2&apos;s.
+        </text>
+        <text font-size="1" x="-24.28353" y="5.129273" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_11_0&apos;s,_101_1&apos;s,_20_2&apos;s.">
+            We have: 11 0&apos;s, 101 1&apos;s, 20 2&apos;s.
+        </text>
+        <text font-size="1" x="26.534618" y="9.10614" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_11_0&apos;s,_110_1&apos;s,_21_2&apos;s.">
+            We have: 11 0&apos;s, 110 1&apos;s, 21 2&apos;s.
+        </text>
+        <text font-size="1" x="22.735432" y="5.4014244" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_2_0&apos;s,_20_1&apos;s,_12_2&apos;s.">
+            We have: 2 0&apos;s, 20 1&apos;s, 12 2&apos;s.
+        </text>
+        <text font-size="1" x="23.334927" y="-40.5223" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_110_0&apos;s,_120_1&apos;s,_101_2&apos;s.">
+            We have: 110 0&apos;s, 120 1&apos;s, 101 2&apos;s.
+        </text>
+        <text font-size="1" x="11.555505" y="-29.862831" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_22_0&apos;s,_100_1&apos;s,_22_2&apos;s.">
+            We have: 22 0&apos;s, 100 1&apos;s, 22 2&apos;s.
+        </text>
+        <text font-size="1" x="-16.726336" y="57.832256" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_110_0&apos;s,_200_1&apos;s,_100_2&apos;s.">
+            We have: 110 0&apos;s, 200 1&apos;s, 100 2&apos;s.
+        </text>
+        <text font-size="1" x="-23.033323" y="-13.946685" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_110_0&apos;s,_212_1&apos;s,_112_2&apos;s.">
+            We have: 110 0&apos;s, 212 1&apos;s, 112 2&apos;s.
+        </text>
+        <text font-size="1" x="-73.18917" y="-29.358826" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1101_0&apos;s,_1202_1&apos;s,_1022_2&apos;s.">
+            We have: 1101 0&apos;s, 1202 1&apos;s, 1022 2&apos;s.
+        </text>
+        <text font-size="1" x="-80.677986" y="-18.80406" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1101_0&apos;s,_1211_1&apos;s,_1020_2&apos;s.">
+            We have: 1101 0&apos;s, 1211 1&apos;s, 1020 2&apos;s.
+        </text>
+        <text font-size="1" x="12.21237" y="-50.255096" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_111_0&apos;s,_212_1&apos;s,_111_2&apos;s.">
+            We have: 111 0&apos;s, 212 1&apos;s, 111 2&apos;s.
+        </text>
+        <text font-size="1" x="44.444756" y="45.54038" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_111_0&apos;s,_220_1&apos;s,_101_2&apos;s.">
+            We have: 111 0&apos;s, 220 1&apos;s, 101 2&apos;s.
+        </text>
+        <text font-size="1" x="-32.100876" y="49.24147" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_111_0&apos;s,_220_1&apos;s,_112_2&apos;s.">
+            We have: 111 0&apos;s, 220 1&apos;s, 112 2&apos;s.
+        </text>
+        <text font-size="1" x="-90.30984" y="-13.694798" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1112_0&apos;s,_2002_1&apos;s,_1101_2&apos;s.">
+            We have: 1112 0&apos;s, 2002 1&apos;s, 1101 2&apos;s.
+        </text>
+        <text font-size="1" x="33.446846" y="-52.458546" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_112_0&apos;s,_210_1&apos;s,_112_2&apos;s.">
+            We have: 112 0&apos;s, 210 1&apos;s, 112 2&apos;s.
+        </text>
+        <text font-size="1" x="-14.426563" y="68.07744" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_112_0&apos;s,_220_1&apos;s,_111_2&apos;s.">
+            We have: 112 0&apos;s, 220 1&apos;s, 111 2&apos;s.
+        </text>
+        <text font-size="1" x="-91.250145" y="-5.309405" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1121_0&apos;s,_2022_1&apos;s,_1122_2&apos;s.">
+            We have: 1121 0&apos;s, 2022 1&apos;s, 1122 2&apos;s.
+        </text>
+        <text font-size="1" x="-98.83333" y="-14.076859" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1121_0&apos;s,_2110_1&apos;s,_1111_2&apos;s.">
+            We have: 1121 0&apos;s, 2110 1&apos;s, 1111 2&apos;s.
+        </text>
+        <text font-size="1" x="21.369738" y="35.421043" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_12_0&apos;s,_112_1&apos;s,_12_2&apos;s.">
+            We have: 12 0&apos;s, 112 1&apos;s, 12 2&apos;s.
+        </text>
+        <text font-size="1" x="-35.235035" y="-28.75916" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_120_0&apos;s,_201_1&apos;s,_120_2&apos;s.">
+            We have: 120 0&apos;s, 201 1&apos;s, 120 2&apos;s.
+        </text>
+        <text font-size="1" x="35.766674" y="-32.04716" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_120_0&apos;s,_210_1&apos;s,_111_2&apos;s.">
+            We have: 120 0&apos;s, 210 1&apos;s, 111 2&apos;s.
+        </text>
+        <text font-size="1" x="-92.03489" y="-19.191095" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1200_0&apos;s,_2101_1&apos;s,_1111_2&apos;s.">
+            We have: 1200 0&apos;s, 2101 1&apos;s, 1111 2&apos;s.
+        </text>
+        <text font-size="1" x="-91.95496" y="-0.018483296" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1201_0&apos;s,_2120_1&apos;s,_1211_2&apos;s.">
+            We have: 1201 0&apos;s, 2120 1&apos;s, 1211 2&apos;s.
+        </text>
+        <text font-size="1" x="-104.084625" y="-14.470312" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_1201_0&apos;s,_2122_1&apos;s,_1202_2&apos;s.">
+            We have: 1201 0&apos;s, 2122 1&apos;s, 1202 2&apos;s.
+        </text>
+        <text font-size="1" x="4.892869" y="-57.0376" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_121_0&apos;s,_1010_1&apos;s,_121_2&apos;s.">
+            We have: 121 0&apos;s, 1010 1&apos;s, 121 2&apos;s.
+        </text>
+        <text font-size="1" x="-13.818446" y="77.519424" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_121_0&apos;s,_1011_1&apos;s,_122_2&apos;s.">
+            We have: 121 0&apos;s, 1011 1&apos;s, 122 2&apos;s.
+        </text>
+        <text font-size="1" x="36.620316" y="-63.960358" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_121_0&apos;s,_221_1&apos;s,_202_2&apos;s.">
+            We have: 121 0&apos;s, 221 1&apos;s, 202 2&apos;s.
+        </text>
+        <text font-size="1" x="-44.281914" y="-29.284756" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_122_0&apos;s,_212_1&apos;s,_210_2&apos;s.">
+            We have: 122 0&apos;s, 212 1&apos;s, 210 2&apos;s.
+        </text>
+        <text font-size="1" x="47.084736" y="-25.108038" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_122_0&apos;s,_221_1&apos;s,_201_2&apos;s.">
+            We have: 122 0&apos;s, 221 1&apos;s, 201 2&apos;s.
+        </text>
+        <text font-size="1" x="-14.017114" y="10.69626" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_2_0&apos;s,_10_1&apos;s,_12_2&apos;s.">
+            We have: 2 0&apos;s, 10 1&apos;s, 12 2&apos;s.
+        </text>
+        <text font-size="1" x="16.25969" y="-6.571697" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_2_0&apos;s,_111_1&apos;s,_21_2&apos;s.">
+            We have: 2 0&apos;s, 111 1&apos;s, 21 2&apos;s.
+        </text>
+        <text font-size="1" x="3.113511" y="18.421043" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_2_0&apos;s,_2_1&apos;s,_10_2&apos;s.">
+            We have: 2 0&apos;s, 2 1&apos;s, 10 2&apos;s.
+        </text>
+        <text font-size="1" x="-3.7019308" y="-2.0086355" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_20_0&apos;s,_12_1&apos;s,_20_2&apos;s.">
+            We have: 20 0&apos;s, 12 1&apos;s, 20 2&apos;s.
+        </text>
+        <text font-size="1" x="28.002083" y="3.2143412" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_20_0&apos;s,_22_1&apos;s,_100_2&apos;s.">
+            We have: 20 0&apos;s, 22 1&apos;s, 100 2&apos;s.
+        </text>
+        <text font-size="1" x="13.045043" y="-56.023808" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_200_0&apos;s,_1001_1&apos;s,_121_2&apos;s.">
+            We have: 200 0&apos;s, 1001 1&apos;s, 121 2&apos;s.
+        </text>
+        <text font-size="1" x="48.704124" y="48.549675" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_200_0&apos;s,_1002_1&apos;s,_111_2&apos;s.">
+            We have: 200 0&apos;s, 1002 1&apos;s, 111 2&apos;s.
+        </text>
+        <text font-size="1" x="41.32282" y="-52.334167" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_200_0&apos;s,_212_1&apos;s,_202_2&apos;s.">
+            We have: 200 0&apos;s, 212 1&apos;s, 202 2&apos;s.
+        </text>
+        <text font-size="1" x="6.6311226" y="-48.54915" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_200_0&apos;s,_221_1&apos;s,_200_2&apos;s.">
+            We have: 200 0&apos;s, 221 1&apos;s, 200 2&apos;s.
+        </text>
+        <text font-size="1" x="-9.039712" y="68.50444" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_200_0&apos;s,_222_1&apos;s,_201_2&apos;s.">
+            We have: 200 0&apos;s, 222 1&apos;s, 201 2&apos;s.
+        </text>
+        <text font-size="1" x="-12.268519" y="85.60416" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_201_0&apos;s,_1022_1&apos;s,_212_2&apos;s.">
+            We have: 201 0&apos;s, 1022 1&apos;s, 212 2&apos;s.
+        </text>
+        <text font-size="1" x="0.80614656" y="-60.95958" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_202_0&apos;s,_1021_1&apos;s,_210_2&apos;s.">
+            We have: 202 0&apos;s, 1021 1&apos;s, 210 2&apos;s.
+        </text>
+        <text font-size="1" x="57.984997" y="-18.492811" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_210_0&apos;s,_1010_1&apos;s,_212_2&apos;s.">
+            We have: 210 0&apos;s, 1010 1&apos;s, 212 2&apos;s.
+        </text>
+        <text font-size="1" x="46.680416" y="-52.43545" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_211_0&apos;s,_1001_1&apos;s,_220_2&apos;s.">
+            We have: 211 0&apos;s, 1001 1&apos;s, 220 2&apos;s.
+        </text>
+        <text font-size="1" x="-9.943483" y="92.40931" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_212_0&apos;s,_1112_1&apos;s,_1000_2&apos;s.">
+            We have: 212 0&apos;s, 1112 1&apos;s, 1000 2&apos;s.
+        </text>
+        <text font-size="1" x="44.89949" y="-75.95135" fill="#858585"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_We_have:_221_0&apos;s,_1020_1&apos;s,_1010_2&apos;s.">
+            We have: 221 0&apos;s, 1020 1&apos;s, 1010 2&apos;s.
+        </text>
+    </g>
+</svg>
