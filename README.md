@@ -1,4 +1,4 @@
-# Bags of Set Reducing Digits
+# Bags of Self Reducing Digits
 *Carneades.org*
 
 This project seeks to answer the question of whether or not there are a finite number of bags of self reducing digits in a given base.  As of the current publication, we have proven that there are a finite number of self reducing bags of digits for base 2 and base 3.  Other bases up to base 10 have been explored to varying degrees.   For more on what is meant by a bag of self reducing digits, [refer to this blog post](https://www.carneades.org/post/the-mathematics-department-is-running-out-of-numbers).  Additionally this project seeks to visualize the networks of self reducing bags of digits.
