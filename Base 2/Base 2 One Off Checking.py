@@ -20,9 +20,6 @@ last_good_Diagonal = ImportLastGoodDiagonal
 
 
 def base_2_conversion(n): 
-    """
-    Converts a non-negative integer to its senary (base-6) string representation.
-    """
     if n == 0:
         return '0'
     nums = []
@@ -48,9 +45,6 @@ def BaseConversion (n):
     return ''.join(reversed(nums))
 
 def run_program_base_2(current_sum): 
-    """
-    Generates and processes the (a, b, c, d, e, f) sextuples up to max_sum such that a+b+c+d+e+f=n.
-    """
     all_data = []
 
     print_num = 0
@@ -125,7 +119,7 @@ def remove_zeros(test_list, item):
 
 FullExit = 0
 while FullExit <100000:
-    full_data = run_program_base_2(CurrentNumberToCheck) # 16. Renamed function
+    full_data = run_program_base_2(CurrentNumberToCheck) 
     collapsed_data = collapsing(full_data)
     
     Exit = 0
