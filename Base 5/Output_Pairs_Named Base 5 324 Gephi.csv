@@ -1,0 +1,370 @@
+Source,Target,Type,ID,Label,timeset,Weight
+We have: 2 2's.,We have no digits.,Directed,1,,,328
+"We have: 3 2's, 3 3's.",We have: 2 2's.,Directed,2,,,8
+"We have: 4 2's, 2 4's.",We have: 2 2's.,Directed,3,,,222
+"We have: 4 2's, 4 3's, 4 4's.","We have: 3 2's, 3 3's.",Directed,4,,,1
+"We have: 11 1's, 1 2, 1 3, 1 4.",We have no digits.,Directed,5,,,1
+"We have: 12 1's, 14 2's, 11 4's.","We have: 2 1's, 12 2's, 4 4's.",Directed,6,,,8
+"We have: 12 1's, 14 2's, 4 3's, 11 4's.","We have: 2 1's, 12 2's, 3 3's, 3 4's.",Directed,7,,,1
+"We have: 2 1's, 12 2's, 4 4's.","We have: 4 2's, 2 4's.",Directed,8,,,61
+"We have: 2 1's, 12 2's, 3 3's, 3 4's.","We have: 4 2's, 2 4's.",Directed,9,,,34
+"We have: 2 1's, 12 2's, 4 3's, 2 4's.","We have: 3 2's, 3 3's.",Directed,10,,,6
+"We have: 2 1's, 3 2's, 2 3's, 1 4.",We have no digits.,Directed,11,,,3
+"We have: 3 1's, 1 2, 3 3's, 1 4.",We have no digits.,Directed,12,,,2
+"We have: 3 1's, 11 2's, 2 3's, 4 4's.","We have: 4 2's, 2 4's.",Directed,13,,,1
+"We have: 1 0, 11 1's, 1 3, 1 4.",We have no digits.,Directed,14,,,1
+"We have: 1 0, 11 1's, 1 2, 1 4.",We have no digits.,Directed,15,,,4
+"We have: 1 0, 11 1's, 1 2, 1 3.",We have no digits.,Directed,16,,,1
+"We have: 1 0, 11 1's, 11 2's, 2 3's, 3 4's.","We have: 4 2's, 2 4's.",Directed,17,,,19
+"We have: 1 0, 11 1's, 2 2's, 1 3, 1 4.",We have no digits.,Directed,18,,,2
+"We have: 1 0, 13 1's, 14 2's, 2 3's, 11 4's.","We have: 2 1's, 12 2's, 4 4's.",Directed,19,,,50
+"We have: 1 0, 13 1's, 3 2's, 11 3's, 2 4's.","We have: 3 1's, 1 2, 3 3's, 1 4.",Directed,20,,,1
+"We have: 1 0, 2 1's, 3 2's, 2 3's.",We have no digits.,Directed,21,,,21
+"We have: 1 0, 21 1's, 23 2's, 3 3's, 12 4's.","We have: 12 1's, 14 2's, 11 4's.",Directed,22,,,7
+"We have: 1 0, 3 1's, 3 3's, 1 4.",We have no digits.,Directed,23,,,1
+"We have: 1 0, 3 1's, 1 2, 3 3's.",We have no digits.,Directed,24,,,4
+"We have: 1 0, 3 1's, 12 2's, 2 3's, 4 4's.","We have: 4 2's, 2 4's.",Directed,25,,,97
+"We have: 1 0, 3 1's, 2 2's, 3 3's, 1 4.",We have no digits.,Directed,26,,,1
+"We have: 10 0's, 20 1's, 13 2's, 4 3's, 10 4's.","We have: 1 0, 11 1's, 11 2's, 2 3's, 3 4's.",Directed,27,,,18
+"We have: 10 0's, 20 1's, 14 2's, 2 3's, 11 4's.","We have: 2 0's, 10 1's, 11 2's, 1 3, 4 4's.",Directed,28,,,4
+"We have: 10 0's, 21 1's, 13 2's, 12 3's, 3 4's.","We have: 3 0's, 11 1's, 10 2's, 4 3's, 2 4's.",Directed,29,,,18
+"We have: 10 0's, 22 1's, 23 2's, 13 3's, 11 4's.","We have: 3 0's, 12 1's, 14 2's, 10 3's, 10 4's.",Directed,30,,,2
+"We have: 10 0's, 22 1's, 24 2's, 11 3's, 12 4's.","We have: 3 0's, 12 1's, 14 2's, 10 3's, 10 4's.",Directed,31,,,20
+"We have: 10 0's, 22 1's, 24 2's, 11 3's, 13 4's.","We have: 3 0's, 12 1's, 20 2's, 4 3's, 11 4's.",Directed,32,,,2
+"We have: 10 0's, 23 1's, 22 2's, 13 3's, 13 4's.","We have: 3 0's, 14 1's, 13 2's, 4 3's, 12 4's.",Directed,33,,,1
+"We have: 10 0's, 24 1's, 21 2's, 13 3's, 13 4's.","We have: 3 0's, 14 1's, 13 2's, 10 3's, 11 4's.",Directed,34,,,1
+"We have: 10 0's, 24 1's, 22 2's, 11 3's, 14 4's.","We have: 3 0's, 14 1's, 13 2's, 10 3's, 11 4's.",Directed,35,,,75
+"We have: 10 0's, 30 1's, 30 2's, 12 3's, 13 4's.","We have: 1 0, 21 1's, 23 2's, 3 3's, 12 4's.",Directed,36,,,2
+"We have: 10 0's, 31 1's, 31 2's, 12 3's, 20 4's.","We have: 2 0's, 21 1's, 23 2's, 4 3's, 14 4's.",Directed,37,,,2
+"We have: 10 0's, 32 1's, 42 2's, 21 3's, 23 4's.","We have: 3 0's, 24 1's, 32 2's, 13 3's, 21 4's.",Directed,38,,,43
+"We have: 10 0's, 34 1's, 34 2's, 20 3's, 21 4's.","We have: 2 0's, 31 1's, 31 2's, 12 3's, 13 4's.",Directed,39,,,1
+"We have: 100 0's, 101 1's, 100 2's, 100 3's, 43 4's.","We have: 32 0's, 40 1's, 44 2's, 43 3's, 41 4's.",Directed,40,,,1
+"We have: 100 0's, 123 1's, 110 2's, 100 3's, 102 4's.","We have: 33 0's, 111 1's, 102 2's, 43 3's, 101 4's.",Directed,41,,,1
+"We have: 100 0's, 123 1's, 112 2's, 43 3's, 102 4's.","We have: 41 0's, 112 1's, 103 2's, 40 3's, 100 4's.",Directed,42,,,1
+"We have: 100 0's, 124 1's, 111 2's, 42 3's, 103 4's.","We have: 41 0's, 112 1's, 103 2's, 40 3's, 100 4's.",Directed,43,,,1
+"We have: 100 0's, 133 1's, 103 2's, 104 3's, 44 4's.","We have: 40 0's, 123 1's, 102 2's, 100 3's, 40 4's.",Directed,44,,,1
+"We have: 100 0's, 200 1's, 122 2's, 103 3's, 114 4's.","We have: 34 0's, 134 1's, 113 2's, 101 3's, 112 4's.",Directed,45,,,3
+"We have: 100 0's, 214 1's, 130 2's, 113 3's, 121 4's.","We have: 41 0's, 201 1's, 122 2's, 110 3's, 114 4's.",Directed,46,,,1
+"We have: 101 0's, 123 1's, 101 2's, 101 3's, 104 4's.","We have: 41 0's, 104 1's, 44 2's, 44 3's, 102 4's.",Directed,47,,,1
+"We have: 101 0's, 134 1's, 100 2's, 110 3's, 111 4's.","We have: 41 0's, 114 1's, 44 2's, 103 3's, 104 4's.",Directed,48,,,2
+"We have: 101 0's, 134 1's, 112 2's, 103 3's, 113 4's.","We have: 43 0's, 120 1's, 110 2's, 44 3's, 111 4's.",Directed,49,,,1
+"We have: 101 0's, 141 1's, 112 2's, 101 3's, 113 4's.","We have: 43 0's, 120 1's, 110 2's, 44 3's, 111 4's.",Directed,50,,,1
+"We have: 101 0's, 142 1's, 113 2's, 102 3's, 111 4's.","We have: 43 0's, 122 1's, 110 2's, 100 3's, 104 4's.",Directed,51,,,2
+"We have: 101 0's, 143 1's, 111 2's, 103 3's, 111 4's.","We have: 43 0's, 122 1's, 110 2's, 100 3's, 104 4's.",Directed,52,,,1
+"We have: 101 0's, 143 1's, 113 2's, 101 3's, 111 4's.","We have: 43 0's, 122 1's, 112 2's, 43 3's, 104 4's.",Directed,53,,,10
+"We have: 101 0's, 144 1's, 123 2's, 110 3's, 124 4's.","We have: 43 0's, 131 1's, 120 2's, 103 3's, 120 4's.",Directed,54,,,19
+"We have: 102 0's, 120 1's, 103 2's, 102 3's, 103 4's.","We have: 41 0's, 104 1's, 44 2's, 44 3's, 102 4's.",Directed,55,,,1
+"We have: 102 0's, 134 1's, 120 2's, 103 3's, 110 4's.","We have: 42 0's, 122 1's, 112 2's, 100 3's, 103 4's.",Directed,56,,,1
+"We have: 102 0's, 141 1's, 120 2's, 101 3's, 110 4's.","We have: 42 0's, 122 1's, 112 2's, 100 3's, 103 4's.",Directed,57,,,1
+"We have: 102 0's, 201 1's, 113 2's, 104 3's, 114 4's.","We have: 43 0's, 133 1's, 110 2's, 102 3's, 111 4's.",Directed,58,,,3
+"We have: 102 0's, 201 1's, 121 2's, 102 3's, 113 4's.","We have: 43 0's, 133 1's, 111 2's, 100 3's, 112 4's.",Directed,59,,,1
+"We have: 103 0's, 134 1's, 112 2's, 102 3's, 102 4's.","We have: 44 0's, 122 1's, 103 2's, 44 3's, 100 4's.",Directed,60,,,1
+"We have: 103 0's, 140 1's, 114 2's, 100 3's, 112 4's.","We have: 43 0's, 122 1's, 112 2's, 43 3's, 104 4's.",Directed,61,,,1
+"We have: 103 0's, 144 1's, 120 2's, 102 3's, 120 4's.","We have: 43 0's, 133 1's, 111 2's, 100 3's, 112 4's.",Directed,62,,,13
+"We have: 103 0's, 201 1's, 112 2's, 112 3's, 100 4's.","We have: 43 0's, 133 1's, 103 2's, 110 3's, 44 4's.",Directed,63,,,1
+"We have: 103 0's, 212 1's, 132 2's, 114 3's, 131 4's.","We have: 101 0's, 144 1's, 123 2's, 110 3's, 124 4's.",Directed,64,,,18
+"We have: 103 0's, 213 1's, 131 2's, 112 3's, 120 4's.","We have: 100 0's, 200 1's, 122 2's, 103 3's, 114 4's.",Directed,65,,,1
+"We have: 103 0's, 214 1's, 130 2's, 111 3's, 121 4's.","We have: 100 0's, 200 1's, 122 2's, 103 3's, 114 4's.",Directed,66,,,1
+"We have: 104 0's, 113 1's, 102 2's, 104 3's, 101 4's.","We have: 44 0's, 100 1's, 100 2's, 102 3's, 43 4's.",Directed,67,,,1
+"We have: 104 0's, 133 1's, 104 2's, 103 3's, 104 4's.","We have: 44 0's, 122 1's, 103 2's, 44 3's, 100 4's.",Directed,68,,,57
+"We have: 104 0's, 134 1's, 110 2's, 102 3's, 103 4's.","We have: 44 0's, 122 1's, 103 2's, 44 3's, 100 4's.",Directed,69,,,1
+"We have: 104 0's, 200 1's, 114 2's, 101 3's, 120 4's.","We have: 43 0's, 133 1's, 111 2's, 100 3's, 112 4's.",Directed,70,,,1
+"We have: 104 0's, 211 1's, 122 2's, 103 3's, 114 4's.","We have: 101 0's, 143 1's, 113 2's, 101 3's, 111 4's.",Directed,71,,,9
+"We have: 104 0's, 214 1's, 123 2's, 111 3's, 122 4's.","We have: 102 0's, 201 1's, 113 2's, 104 3's, 114 4's.",Directed,72,,,2
+"We have: 11 0's, 20 1's, 23 2's, 14 3's, 10 4's.","We have: 3 0's, 10 1's, 20 2's, 12 3's, 3 4's.",Directed,73,,,3
+"We have: 11 0's, 24 1's, 10 2's, 10 3's, 10 4's.","We have: 2 0's, 13 1's, 3 2's, 4 3's, 3 4's.",Directed,74,,,1
+"We have: 11 0's, 24 1's, 13 2's, 13 3's, 10 4's.","We have: 4 0's, 13 1's, 11 2's, 10 3's, 3 4's.",Directed,75,,,92
+"We have: 11 0's, 30 1's, 20 2's, 11 3's, 14 4's.","We have: 3 0's, 14 1's, 13 2's, 4 3's, 12 4's.",Directed,76,,,2
+"We have: 11 0's, 30 1's, 30 2's, 13 3's, 20 4's.","We have: 2 0's, 21 1's, 23 2's, 4 3's, 14 4's.",Directed,77,,,1
+"We have: 11 0's, 30 1's, 32 2's, 22 3's, 13 4's.","We have: 4 0's, 21 1's, 23 2's, 13 3's, 12 4's.",Directed,78,,,6
+"We have: 11 0's, 31 1's, 21 2's, 4 3's, 14 4's.","We have: 10 0's, 20 1's, 14 2's, 2 3's, 11 4's.",Directed,79,,,1
+"We have: 11 0's, 31 1's, 30 2's, 23 3's, 13 4's.","We have: 4 0's, 21 1's, 23 2's, 13 3's, 12 4's.",Directed,80,,,2
+"We have: 11 0's, 32 1's, 22 2's, 11 3's, 11 4's.","We have: 10 0's, 20 1's, 13 2's, 4 3's, 10 4's.",Directed,81,,,3
+"We have: 11 0's, 33 1's, 31 2's, 21 3's, 13 4's.","We have: 10 0's, 22 1's, 24 2's, 11 3's, 12 4's.",Directed,82,,,18
+"We have: 11 0's, 41 1's, 44 2's, 24 3's, 33 4's.","We have: 10 0's, 32 1's, 42 2's, 21 3's, 23 4's.",Directed,83,,,42
+"We have: 110 0's, 113 1's, 102 2's, 104 3's, 100 4's.","We have: 44 0's, 100 1's, 100 2's, 102 3's, 43 4's.",Directed,84,,,1
+"We have: 110 0's, 140 1's, 104 2's, 101 3's, 103 4's.","We have: 44 0's, 122 1's, 103 2's, 44 3's, 100 4's.",Directed,85,,,3
+"We have: 110 0's, 141 1's, 110 2's, 100 3's, 102 4's.","We have: 44 0's, 122 1's, 103 2's, 44 3's, 100 4's.",Directed,86,,,5
+"We have: 110 0's, 202 1's, 104 2's, 112 3's, 113 4's.","We have: 101 0's, 134 1's, 100 2's, 110 3's, 111 4's.",Directed,87,,,1
+"We have: 110 0's, 210 1's, 122 2's, 104 3's, 113 4's.","We have: 101 0's, 142 1's, 113 2's, 102 3's, 111 4's.",Directed,88,,,1
+"We have: 110 0's, 223 1's, 142 2's, 123 3's, 134 4's.","We have: 103 0's, 212 1's, 132 2's, 114 3's, 131 4's.",Directed,89,,,2
+"We have: 111 0's, 211 1's, 111 2's, 104 3's, 111 4's.","We have: 104 0's, 133 1's, 104 2's, 103 3's, 104 4's.",Directed,90,,,56
+"We have: 111 0's, 212 1's, 130 2's, 104 3's, 122 4's.","We have: 103 0's, 144 1's, 120 2's, 102 3's, 120 4's.",Directed,91,,,12
+"We have: 111 0's, 224 1's, 142 2's, 120 3's, 140 4's.","We have: 103 0's, 212 1's, 132 2's, 114 3's, 131 4's.",Directed,92,,,15
+"We have: 112 0's, 230 1's, 131 2's, 111 3's, 120 4's.","We have: 104 0's, 211 1's, 122 2's, 103 3's, 114 4's.",Directed,93,,,8
+"We have: 112 0's, 230 1's, 133 2's, 120 3's, 124 4's.","We have: 104 0's, 214 1's, 123 2's, 111 3's, 122 4's.",Directed,94,,,1
+"We have: 112 0's, 231 1's, 114 2's, 113 3's, 113 4's.","We have: 111 0's, 211 1's, 111 2's, 104 3's, 111 4's.",Directed,95,,,18
+"We have: 112 0's, 231 1's, 122 2's, 111 3's, 112 4's.","We have: 111 0's, 211 1's, 111 2's, 104 3's, 111 4's.",Directed,96,,,21
+"We have: 113 0's, 224 1's, 120 2's, 113 3's, 113 4's.","We have: 111 0's, 211 1's, 111 2's, 104 3's, 111 4's.",Directed,97,,,13
+"We have: 113 0's, 224 1's, 133 2's, 114 3's, 130 4's.","We have: 111 0's, 212 1's, 130 2's, 104 3's, 122 4's.",Directed,98,,,11
+"We have: 113 0's, 230 1's, 113 2's, 114 3's, 113 4's.","We have: 111 0's, 211 1's, 111 2's, 104 3's, 111 4's.",Directed,99,,,1
+"We have: 113 0's, 230 1's, 114 2's, 112 3's, 114 4's.","We have: 111 0's, 211 1's, 111 2's, 104 3's, 111 4's.",Directed,100,,,1
+"We have: 113 0's, 230 1's, 121 2's, 112 3's, 112 4's.","We have: 111 0's, 211 1's, 111 2's, 104 3's, 111 4's.",Directed,101,,,1
+"We have: 113 0's, 240 1's, 201 2's, 131 3's, 142 4's.","We have: 110 0's, 223 1's, 142 2's, 123 3's, 134 4's.",Directed,102,,,1
+"We have: 113 0's, 241 1's, 201 2's, 123 3's, 144 4's.","We have: 111 0's, 224 1's, 142 2's, 120 3's, 140 4's.",Directed,103,,,14
+"We have: 114 0's, 204 1's, 113 2's, 102 3's, 110 4's.","We have: 110 0's, 141 1's, 110 2's, 100 3's, 102 4's.",Directed,104,,,3
+"We have: 114 0's, 210 1's, 111 2's, 103 3's, 110 4's.","We have: 110 0's, 140 1's, 104 2's, 101 3's, 103 4's.",Directed,105,,,1
+"We have: 114 0's, 242 1's, 134 2's, 114 3's, 130 4's.","We have: 112 0's, 230 1's, 131 2's, 111 3's, 120 4's.",Directed,106,,,7
+"We have: 12 0's, 23 1's, 34 2's, 22 3's, 12 4's.","We have: 11 0's, 20 1's, 23 2's, 14 3's, 10 4's.",Directed,107,,,1
+"We have: 12 0's, 24 1's, 23 2's, 10 3's, 13 4's.","We have: 10 0's, 20 1's, 14 2's, 2 3's, 11 4's.",Directed,108,,,2
+"We have: 12 0's, 30 1's, 33 2's, 22 3's, 12 4's.","We have: 10 0's, 22 1's, 23 2's, 13 3's, 11 4's.",Directed,109,,,1
+"We have: 12 0's, 31 1's, 22 2's, 14 3's, 10 4's.","We have: 10 0's, 21 1's, 13 2's, 12 3's, 3 4's.",Directed,110,,,17
+"We have: 12 0's, 31 1's, 31 2's, 23 3's, 11 4's.","We have: 11 0's, 20 1's, 23 2's, 14 3's, 10 4's.",Directed,111,,,1
+"We have: 12 0's, 33 1's, 23 2's, 22 3's, 11 4's.","We have: 11 0's, 24 1's, 13 2's, 13 3's, 10 4's.",Directed,112,,,91
+"We have: 12 0's, 33 1's, 34 2's, 21 3's, 20 4's.","We have: 10 0's, 30 1's, 30 2's, 12 3's, 13 4's.",Directed,113,,,1
+"We have: 12 0's, 33 1's, 42 2's, 20 3's, 22 4's.","We have: 10 0's, 31 1's, 31 2's, 12 3's, 20 4's.",Directed,114,,,1
+"We have: 12 0's, 34 1's, 34 2's, 32 3's, 21 4's.","We have: 11 0's, 31 1's, 30 2's, 23 3's, 13 4's.",Directed,115,,,1
+"We have: 12 0's, 42 1's, 41 2's, 23 3's, 21 4's.","We have: 11 0's, 33 1's, 31 2's, 21 3's, 13 4's.",Directed,116,,,8
+"We have: 120 0's, 202 1's, 114 2's, 102 3's, 110 4's.","We have: 110 0's, 140 1's, 104 2's, 101 3's, 103 4's.",Directed,117,,,1
+"We have: 120 0's, 202 1's, 121 2's, 102 3's, 103 4's.","We have: 110 0's, 141 1's, 110 2's, 100 3's, 102 4's.",Directed,118,,,1
+"We have: 120 0's, 243 1's, 131 2's, 114 3's, 120 4's.","We have: 112 0's, 231 1's, 122 2's, 111 3's, 112 4's.",Directed,119,,,20
+"We have: 121 0's, 223 1's, 123 2's, 110 3's, 111 4's.","We have: 114 0's, 204 1's, 113 2's, 102 3's, 110 4's.",Directed,120,,,1
+"We have: 121 0's, 234 1's, 200 2's, 122 3's, 132 4's.","We have: 113 0's, 224 1's, 133 2's, 114 3's, 130 4's.",Directed,121,,,10
+"We have: 121 0's, 242 1's, 130 2's, 120 3's, 120 4's.","We have: 112 0's, 231 1's, 114 2's, 113 3's, 113 4's.",Directed,122,,,17
+"We have: 122 0's, 220 1's, 124 2's, 104 3's, 113 4's.","We have: 114 0's, 204 1's, 113 2's, 102 3's, 110 4's.",Directed,123,,,1
+"We have: 122 0's, 240 1's, 131 2's, 120 3's, 120 4's.","We have: 113 0's, 224 1's, 120 2's, 113 3's, 113 4's.",Directed,124,,,12
+"We have: 122 0's, 302 1's, 202 2's, 122 3's, 131 4's.","We have: 114 0's, 242 1's, 134 2's, 114 3's, 130 4's.",Directed,125,,,6
+"We have: 122 0's, 304 1's, 141 2's, 123 3's, 123 4's.","We have: 120 0's, 243 1's, 131 2's, 114 3's, 120 4's.",Directed,126,,,4
+"We have: 122 0's, 304 1's, 142 2's, 121 3's, 124 4's.","We have: 120 0's, 243 1's, 131 2's, 114 3's, 120 4's.",Directed,127,,,14
+"We have: 123 0's, 300 1's, 212 2's, 132 3's, 200 4's.","We have: 113 0's, 241 1's, 201 2's, 123 3's, 144 4's.",Directed,128,,,1
+"We have: 123 0's, 301 1's, 210 2's, 133 3's, 200 4's.","We have: 113 0's, 241 1's, 201 2's, 123 3's, 144 4's.",Directed,129,,,2
+"We have: 123 0's, 303 1's, 133 2's, 133 3's, 121 4's.","We have: 121 0's, 242 1's, 130 2's, 120 3's, 120 4's.",Directed,130,,,1
+"We have: 123 0's, 303 1's, 134 2's, 131 3's, 122 4's.","We have: 121 0's, 242 1's, 130 2's, 120 3's, 120 4's.",Directed,131,,,9
+"We have: 123 0's, 303 1's, 140 2's, 124 3's, 123 4's.","We have: 120 0's, 243 1's, 131 2's, 114 3's, 120 4's.",Directed,132,,,1
+"We have: 123 0's, 310 1's, 133 2's, 131 3's, 121 4's.","We have: 121 0's, 242 1's, 130 2's, 120 3's, 120 4's.",Directed,133,,,1
+"We have: 123 0's, 314 1's, 211 2's, 132 3's, 134 4's.","We have: 122 0's, 302 1's, 202 2's, 122 3's, 131 4's.",Directed,134,,,3
+"We have: 124 0's, 301 1's, 142 2's, 122 3's, 124 4's.","We have: 122 0's, 240 1's, 131 2's, 120 3's, 120 4's.",Directed,135,,,10
+"We have: 124 0's, 302 1's, 134 2's, 130 3's, 123 4's.","We have: 121 0's, 242 1's, 130 2's, 120 3's, 120 4's.",Directed,136,,,1
+"We have: 124 0's, 302 1's, 140 2's, 123 3's, 124 4's.","We have: 121 0's, 242 1's, 130 2's, 120 3's, 120 4's.",Directed,137,,,1
+"We have: 124 0's, 313 1's, 210 2's, 133 3's, 134 4's.","We have: 122 0's, 302 1's, 202 2's, 122 3's, 131 4's.",Directed,138,,,2
+"We have: 124 0's, 314 1's, 202 2's, 124 3's, 134 4's.","We have: 122 0's, 304 1's, 142 2's, 121 3's, 124 4's.",Directed,139,,,6
+"We have: 13 0's, 24 1's, 33 2's, 20 3's, 20 4's.","We have: 10 0's, 22 1's, 24 2's, 11 3's, 13 4's.",Directed,140,,,1
+"We have: 13 0's, 30 1's, 20 2's, 13 3's, 11 4's.","We have: 10 0's, 20 1's, 13 2's, 4 3's, 10 4's.",Directed,141,,,14
+"We have: 13 0's, 30 1's, 30 2's, 22 3's, 20 4's.","We have: 4 0's, 23 1's, 21 2's, 13 3's, 14 4's.",Directed,142,,,13
+"We have: 13 0's, 30 1's, 32 2's, 20 3's, 14 4's.","We have: 10 0's, 22 1's, 24 2's, 11 3's, 12 4's.",Directed,143,,,1
+"We have: 13 0's, 32 1's, 31 2's, 20 3's, 20 4's.","We have: 10 0's, 24 1's, 22 2's, 11 3's, 14 4's.",Directed,144,,,74
+"We have: 13 0's, 33 1's, 24 2's, 20 3's, 21 4's.","We have: 11 0's, 30 1's, 20 2's, 11 3's, 14 4's.",Directed,145,,,1
+"We have: 13 0's, 41 1's, 31 2's, 22 3's, 12 4's.","We have: 12 0's, 31 1's, 22 2's, 14 3's, 10 4's.",Directed,146,,,12
+"We have: 13 0's, 42 1's, 31 2's, 32 3's, 13 4's.","We have: 12 0's, 33 1's, 23 2's, 22 3's, 11 4's.",Directed,147,,,2
+"We have: 13 0's, 44 1's, 102 2's, 33 3's, 42 4's.","We have: 11 0's, 41 1's, 44 2's, 24 3's, 33 4's.",Directed,148,,,7
+"We have: 130 0's, 243 1's, 203 2's, 133 3's, 140 4's.","We have: 121 0's, 234 1's, 200 2's, 122 3's, 132 4's.",Directed,149,,,9
+"We have: 130 0's, 300 1's, 210 2's, 132 3's, 200 4's.","We have: 113 0's, 241 1's, 201 2's, 123 3's, 144 4's.",Directed,150,,,10
+"We have: 130 0's, 301 1's, 134 2's, 124 3's, 124 4's.","We have: 122 0's, 240 1's, 131 2's, 120 3's, 120 4's.",Directed,151,,,1
+"We have: 130 0's, 302 1's, 134 2's, 130 3's, 122 4's.","We have: 121 0's, 242 1's, 130 2's, 120 3's, 120 4's.",Directed,152,,,3
+"We have: 130 0's, 320 1's, 143 2's, 134 3's, 131 4's.","We have: 122 0's, 304 1's, 141 2's, 123 3's, 123 4's.",Directed,153,,,3
+"We have: 131 0's, 311 1's, 212 2's, 142 3's, 143 4's.","We have: 130 0's, 243 1's, 203 2's, 133 3's, 140 4's.",Directed,154,,,1
+"We have: 131 0's, 312 1's, 211 2's, 141 3's, 144 4's.","We have: 130 0's, 243 1's, 203 2's, 133 3's, 140 4's.",Directed,155,,,3
+"We have: 131 0's, 321 1's, 141 2's, 140 3's, 130 4's.","We have: 123 0's, 303 1's, 134 2's, 131 3's, 122 4's.",Directed,156,,,8
+"We have: 131 0's, 321 1's, 200 2's, 131 3's, 130 4's.","We have: 122 0's, 304 1's, 142 2's, 121 3's, 124 4's.",Directed,157,,,7
+"We have: 131 0's, 323 1's, 220 2's, 143 3's, 142 4's.","We have: 124 0's, 313 1's, 210 2's, 133 3's, 134 4's.",Directed,158,,,1
+"We have: 131 0's, 324 1's, 220 2's, 140 3's, 144 4's.","We have: 123 0's, 314 1's, 211 2's, 132 3's, 134 4's.",Directed,159,,,1
+"We have: 131 0's, 330 1's, 220 2's, 141 3's, 142 4's.","We have: 123 0's, 314 1's, 211 2's, 132 3's, 134 4's.",Directed,160,,,1
+"We have: 131 0's, 331 1's, 210 2's, 134 3's, 142 4's.","We have: 124 0's, 314 1's, 202 2's, 124 3's, 134 4's.",Directed,161,,,5
+"We have: 132 0's, 303 1's, 212 2's, 143 3's, 144 4's.","We have: 130 0's, 243 1's, 203 2's, 133 3's, 140 4's.",Directed,162,,,2
+"We have: 132 0's, 304 1's, 220 2's, 143 3's, 203 4's.","We have: 123 0's, 301 1's, 210 2's, 133 3's, 200 4's.",Directed,163,,,1
+"We have: 132 0's, 310 1's, 211 2's, 143 3's, 143 4's.","We have: 130 0's, 243 1's, 203 2's, 133 3's, 140 4's.",Directed,164,,,1
+"We have: 132 0's, 310 1's, 212 2's, 141 3's, 144 4's.","We have: 130 0's, 243 1's, 203 2's, 133 3's, 140 4's.",Directed,165,,,1
+"We have: 132 0's, 312 1's, 201 2's, 133 3's, 130 4's.","We have: 124 0's, 301 1's, 142 2's, 122 3's, 124 4's.",Directed,166,,,9
+"We have: 132 0's, 332 1's, 144 2's, 144 3's, 141 4's.","We have: 131 0's, 321 1's, 141 2's, 140 3's, 130 4's.",Directed,167,,,3
+"We have: 133 0's, 303 1's, 222 2's, 142 3's, 202 4's.","We have: 130 0's, 300 1's, 210 2's, 132 3's, 200 4's.",Directed,168,,,1
+"We have: 133 0's, 304 1's, 213 2's, 143 3's, 204 4's.","We have: 130 0's, 300 1's, 210 2's, 132 3's, 200 4's.",Directed,169,,,1
+"We have: 133 0's, 310 1's, 214 2's, 142 3's, 203 4's.","We have: 130 0's, 300 1's, 210 2's, 132 3's, 200 4's.",Directed,170,,,1
+"We have: 133 0's, 311 1's, 220 2's, 141 3's, 202 4's.","We have: 130 0's, 300 1's, 210 2's, 132 3's, 200 4's.",Directed,171,,,2
+"We have: 133 0's, 314 1's, 140 2's, 140 3's, 131 4's.","We have: 130 0's, 302 1's, 134 2's, 130 3's, 122 4's.",Directed,172,,,2
+"We have: 133 0's, 331 1's, 144 2's, 202 3's, 133 4's.","We have: 131 0's, 321 1's, 141 2's, 140 3's, 130 4's.",Directed,173,,,1
+"We have: 134 0's, 303 1's, 220 2's, 142 3's, 203 4's.","We have: 130 0's, 300 1's, 210 2's, 132 3's, 200 4's.",Directed,174,,,1
+"We have: 134 0's, 320 1's, 222 2's, 144 3's, 204 4's.","We have: 131 0's, 312 1's, 211 2's, 141 3's, 144 4's.",Directed,175,,,1
+"We have: 134 0's, 322 1's, 210 2's, 143 3's, 134 4's.","We have: 132 0's, 312 1's, 201 2's, 133 3's, 130 4's.",Directed,176,,,6
+"We have: 134 0's, 330 1's, 143 2's, 203 3's, 133 4's.","We have: 131 0's, 321 1's, 141 2's, 140 3's, 130 4's.",Directed,177,,,2
+"We have: 134 0's, 330 1's, 203 2's, 142 3's, 134 4's.","We have: 131 0's, 321 1's, 200 2's, 131 3's, 130 4's.",Directed,178,,,2
+"We have: 134 0's, 340 1's, 214 2's, 143 3's, 202 4's.","We have: 131 0's, 331 1's, 210 2's, 134 3's, 142 4's.",Directed,179,,,1
+"We have: 134 0's, 341 1's, 220 2's, 142 3's, 201 4's.","We have: 131 0's, 331 1's, 210 2's, 134 3's, 142 4's.",Directed,180,,,3
+"We have: 14 0's, 102 1's, 102 2's, 31 3's, 41 4's.","We have: 11 0's, 41 1's, 44 2's, 24 3's, 33 4's.",Directed,181,,,1
+"We have: 14 0's, 32 1's, 34 2's, 32 3's, 23 4's.","We have: 13 0's, 30 1's, 30 2's, 22 3's, 20 4's.",Directed,182,,,1
+"We have: 14 0's, 33 1's, 23 2's, 23 3's, 14 4's.","We have: 13 0's, 30 1's, 20 2's, 13 3's, 11 4's.",Directed,183,,,1
+"We have: 14 0's, 33 1's, 30 2's, 14 3's, 21 4's.","We have: 12 0's, 24 1's, 23 2's, 10 3's, 13 4's.",Directed,184,,,1
+"We have: 14 0's, 34 1's, 30 2's, 22 3's, 14 4's.","We have: 12 0's, 31 1's, 22 2's, 14 3's, 10 4's.",Directed,185,,,2
+"We have: 14 0's, 40 1's, 40 2's, 23 3's, 22 4's.","We have: 11 0's, 33 1's, 31 2's, 21 3's, 13 4's.",Directed,186,,,6
+"We have: 14 0's, 41 1's, 32 2's, 24 3's, 20 4's.","We have: 12 0's, 33 1's, 23 2's, 22 3's, 11 4's.",Directed,187,,,88
+"We have: 14 0's, 44 1's, 100 2's, 33 3's, 43 4's.","We have: 11 0's, 41 1's, 44 2's, 24 3's, 33 4's.",Directed,188,,,33
+"We have: 140 0's, 310 1's, 213 2's, 140 3's, 204 4's.","We have: 130 0's, 300 1's, 210 2's, 132 3's, 200 4's.",Directed,189,,,3
+"We have: 140 0's, 320 1's, 222 2's, 144 3's, 203 4's.","We have: 131 0's, 312 1's, 211 2's, 141 3's, 144 4's.",Directed,190,,,1
+"We have: 140 0's, 322 1's, 210 2's, 143 3's, 133 4's.","We have: 132 0's, 312 1's, 201 2's, 133 3's, 130 4's.",Directed,191,,,2
+"We have: 140 0's, 330 1's, 201 2's, 142 3's, 140 4's.","We have: 130 0's, 320 1's, 143 2's, 134 3's, 131 4's.",Directed,192,,,2
+"We have: 140 0's, 330 1's, 203 2's, 142 3's, 133 4's.","We have: 131 0's, 321 1's, 200 2's, 131 3's, 130 4's.",Directed,193,,,4
+"We have: 140 0's, 331 1's, 143 2's, 200 3's, 134 4's.","We have: 131 0's, 321 1's, 141 2's, 140 3's, 130 4's.",Directed,194,,,1
+"We have: 141 0's, 312 1's, 224 2's, 200 3's, 202 4's.","We have: 132 0's, 303 1's, 212 2's, 143 3's, 144 4's.",Directed,195,,,1
+"We have: 141 0's, 321 1's, 223 2's, 144 3's, 213 4's.","We have: 140 0's, 310 1's, 213 2's, 140 3's, 204 4's.",Directed,196,,,1
+"We have: 141 0's, 321 1's, 224 2's, 142 3's, 214 4's.","We have: 140 0's, 310 1's, 213 2's, 140 3's, 204 4's.",Directed,197,,,1
+"We have: 141 0's, 332 1's, 214 2's, 203 3's, 143 4's.","We have: 134 0's, 322 1's, 210 2's, 143 3's, 134 4's.",Directed,198,,,3
+"We have: 141 0's, 332 1's, 222 2's, 201 3's, 142 4's.","We have: 134 0's, 322 1's, 210 2's, 143 3's, 134 4's.",Directed,199,,,1
+"We have: 142 0's, 332 1's, 222 2's, 201 3's, 141 4's.","We have: 140 0's, 322 1's, 210 2's, 143 3's, 133 4's.",Directed,200,,,1
+"We have: 142 0's, 334 1's, 204 2's, 203 3's, 200 4's.","We have: 132 0's, 332 1's, 144 2's, 144 3's, 141 4's.",Directed,201,,,1
+"We have: 142 0's, 340 1's, 203 2's, 211 3's, 142 4's.","We have: 134 0's, 330 1's, 143 2's, 203 3's, 133 4's.",Directed,202,,,1
+"We have: 142 0's, 341 1's, 204 2's, 201 3's, 200 4's.","We have: 132 0's, 332 1's, 144 2's, 144 3's, 141 4's.",Directed,203,,,1
+"We have: 143 0's, 322 1's, 200 2's, 200 3's, 133 4's.","We have: 133 0's, 314 1's, 140 2's, 140 3's, 131 4's.",Directed,204,,,1
+"We have: 143 0's, 330 1's, 220 2's, 203 3's, 142 4's.","We have: 134 0's, 322 1's, 210 2's, 143 3's, 134 4's.",Directed,205,,,1
+"We have: 143 0's, 340 1's, 211 2's, 200 3's, 144 4's.","We have: 134 0's, 330 1's, 203 2's, 142 3's, 134 4's.",Directed,206,,,1
+"We have: 144 0's, 340 1's, 211 2's, 200 3's, 143 4's.","We have: 140 0's, 330 1's, 203 2's, 142 3's, 133 4's.",Directed,207,,,2
+"We have: 144 0's, 341 1's, 224 2's, 210 3's, 204 4's.","We have: 141 0's, 332 1's, 214 2's, 203 3's, 143 4's.",Directed,208,,,1
+"We have: 2 0's, 10 1's, 11 2's, 1 3, 4 4's.","We have: 4 2's, 2 4's.",Directed,209,,,9
+"We have: 2 0's, 11 1's, 10 2's, 4 3's, 3 4's.","We have: 2 1's, 3 2's, 2 3's, 1 4.",Directed,210,,,1
+"We have: 2 0's, 12 1's, 21 2's, 1 3, 10 4's.","We have: 2 1's, 12 2's, 4 4's.",Directed,211,,,1
+"We have: 2 0's, 13 1's, 3 2's, 11 3's, 1 4.","We have: 1 0, 3 1's, 1 2, 3 3's.",Directed,212,,,3
+"We have: 2 0's, 13 1's, 3 2's, 4 3's, 3 4's.","We have: 1 0, 11 1's, 1 2, 1 4.",Directed,213,,,2
+"We have: 2 0's, 13 1's, 4 2's, 2 3's, 4 4's.","We have: 1 0, 11 1's, 1 2, 1 4.",Directed,214,,,1
+"We have: 2 0's, 2 1's, 10 2's.",We have: 2 2's.,Directed,215,,,3
+"We have: 2 0's, 21 1's, 23 2's, 4 3's, 14 4's.","We have: 1 0, 13 1's, 14 2's, 2 3's, 11 4's.",Directed,216,,,49
+"We have: 2 0's, 3 1's, 10 2's, 2 3's, 1 4.",We have: 2 2's.,Directed,217,,,94
+"We have: 2 0's, 31 1's, 31 2's, 12 3's, 13 4's.","We have: 1 0, 21 1's, 23 2's, 3 3's, 12 4's.",Directed,218,,,3
+"We have: 20 0's, 32 1's, 41 2's, 30 3's, 20 4's.","We have: 11 0's, 30 1's, 32 2's, 22 3's, 13 4's.",Directed,219,,,5
+"We have: 20 0's, 33 1's, 24 2's, 21 3's, 14 4's.","We have: 13 0's, 30 1's, 20 2's, 13 3's, 11 4's.",Directed,220,,,12
+"We have: 20 0's, 34 1's, 30 2's, 20 3's, 13 4's.","We have: 11 0's, 32 1's, 22 2's, 11 3's, 11 4's.",Directed,221,,,2
+"We have: 20 0's, 34 1's, 41 2's, 22 3's, 24 4's.","We have: 13 0's, 32 1's, 31 2's, 20 3's, 20 4's.",Directed,222,,,72
+"We have: 20 0's, 40 1's, 31 2's, 21 3's, 12 4's.","We have: 12 0's, 31 1's, 22 2's, 14 3's, 10 4's.",Directed,223,,,2
+"We have: 20 0's, 40 1's, 40 2's, 23 3's, 21 4's.","We have: 11 0's, 33 1's, 31 2's, 21 3's, 13 4's.",Directed,224,,,3
+"We have: 20 0's, 43 1's, 44 2's, 32 3's, 30 4's.","We have: 12 0's, 42 1's, 41 2's, 23 3's, 21 4's.",Directed,225,,,4
+"We have: 200 0's, 313 1's, 230 2's, 200 3's, 204 4's.","We have: 133 0's, 311 1's, 220 2's, 141 3's, 202 4's.",Directed,226,,,1
+"We have: 200 0's, 333 1's, 213 2's, 202 3's, 140 4's.","We have: 140 0's, 330 1's, 203 2's, 142 3's, 133 4's.",Directed,227,,,1
+"We have: 200 0's, 334 1's, 210 2's, 201 3's, 143 4's.","We have: 140 0's, 330 1's, 201 2's, 142 3's, 140 4's.",Directed,228,,,1
+"We have: 200 0's, 342 1's, 232 2's, 200 3's, 204 4's.","We have: 134 0's, 341 1's, 220 2's, 142 3's, 201 4's.",Directed,229,,,1
+"We have: 200 0's, 343 1's, 230 2's, 201 3's, 204 4's.","We have: 134 0's, 341 1's, 220 2's, 142 3's, 201 4's.",Directed,230,,,1
+"We have: 202 0's, 340 1's, 230 2's, 211 3's, 200 4's.","We have: 141 0's, 332 1's, 214 2's, 203 3's, 143 4's.",Directed,231,,,1
+"We have: 203 0's, 342 1's, 223 2's, 204 3's, 201 4's.","We have: 144 0's, 340 1's, 211 2's, 200 3's, 143 4's.",Directed,232,,,1
+"We have: 21 0's, 100 1's, 33 2's, 33 3's, 13 4's.","We have: 13 0's, 41 1's, 31 2's, 22 3's, 12 4's.",Directed,233,,,11
+"We have: 21 0's, 101 1's, 42 2's, 31 3's, 22 4's.","We have: 14 0's, 41 1's, 32 2's, 24 3's, 20 4's.",Directed,234,,,71
+"We have: 21 0's, 102 1's, 101 2's, 30 3's, 22 4's.","We have: 12 0's, 42 1's, 41 2's, 23 3's, 21 4's.",Directed,235,,,2
+"We have: 21 0's, 32 1's, 40 2's, 30 3's, 22 4's.","We have: 13 0's, 30 1's, 30 2's, 22 3's, 20 4's.",Directed,236,,,11
+"We have: 21 0's, 40 1's, 40 2's, 21 3's, 24 4's.","We have: 13 0's, 32 1's, 31 2's, 20 3's, 20 4's.",Directed,237,,,1
+"We have: 21 0's, 42 1's, 43 2's, 33 3's, 30 4's.","We have: 14 0's, 40 1's, 40 2's, 23 3's, 22 4's.",Directed,238,,,5
+"We have: 21 0's, 42 1's, 44 2's, 31 3's, 33 4's.","We have: 20 0's, 34 1's, 41 2's, 22 3's, 24 4's.",Directed,239,,,52
+"We have: 21 0's, 43 1's, 40 2's, 33 3's, 24 4's.","We have: 14 0's, 41 1's, 32 2's, 24 3's, 20 4's.",Directed,240,,,16
+"We have: 21 0's, 44 1's, 41 2's, 22 3's, 21 4's.","We have: 20 0's, 40 1's, 31 2's, 21 3's, 12 4's.",Directed,241,,,1
+"We have: 22 0's, 100 1's, 102 2's, 30 3's, 22 4's.","We have: 12 0's, 42 1's, 41 2's, 23 3's, 21 4's.",Directed,242,,,1
+"We have: 22 0's, 100 1's, 40 2's, 34 3's, 21 4's.","We have: 13 0's, 42 1's, 31 2's, 32 3's, 13 4's.",Directed,243,,,1
+"We have: 22 0's, 112 1's, 112 2's, 33 3's, 24 4's.","We have: 21 0's, 102 1's, 101 2's, 30 3's, 22 4's.",Directed,244,,,1
+"We have: 22 0's, 34 1's, 34 2's, 30 3's, 22 4's.","We have: 20 0's, 33 1's, 24 2's, 21 3's, 14 4's.",Directed,245,,,1
+"We have: 22 0's, 40 1's, 40 2's, 24 3's, 23 4's.","We have: 14 0's, 34 1's, 30 2's, 22 3's, 14 4's.",Directed,246,,,1
+"We have: 22 0's, 40 1's, 41 2's, 22 3's, 22 4's.","We have: 20 0's, 33 1's, 24 2's, 21 3's, 14 4's.",Directed,247,,,1
+"We have: 22 0's, 41 1's, 101 2's, 33 3's, 22 4's.","We have: 20 0's, 32 1's, 41 2's, 30 3's, 20 4's.",Directed,248,,,4
+"We have: 22 0's, 41 1's, 33 2's, 30 3's, 21 4's.","We have: 20 0's, 33 1's, 24 2's, 21 3's, 14 4's.",Directed,249,,,9
+"We have: 22 0's, 41 1's, 44 2's, 30 3's, 34 4's.","We have: 20 0's, 34 1's, 41 2's, 22 3's, 24 4's.",Directed,250,,,1
+"We have: 22 0's, 42 1's, 44 2's, 31 3's, 30 4's.","We have: 20 0's, 40 1's, 40 2's, 23 3's, 21 4's.",Directed,251,,,1
+"We have: 23 0's, 101 1's, 43 2's, 43 3's, 32 4's.","We have: 21 0's, 43 1's, 40 2's, 33 3's, 24 4's.",Directed,252,,,2
+"We have: 23 0's, 102 1's, 103 2's, 41 3's, 32 4's.","We have: 20 0's, 43 1's, 44 2's, 32 3's, 30 4's.",Directed,253,,,3
+"We have: 23 0's, 104 1's, 104 2's, 40 3's, 101 4's.","We have: 13 0's, 44 1's, 102 2's, 33 3's, 42 4's.",Directed,254,,,6
+"We have: 23 0's, 111 1's, 41 2's, 40 3's, 21 4's.","We have: 21 0's, 100 1's, 33 2's, 33 3's, 13 4's.",Directed,255,,,9
+"We have: 23 0's, 40 1's, 44 2's, 24 3's, 40 4's.","We have: 20 0's, 34 1's, 41 2's, 22 3's, 24 4's.",Directed,256,,,18
+"We have: 23 0's, 41 1's, 33 2's, 30 3's, 20 4's.","We have: 20 0's, 34 1's, 30 2's, 20 3's, 13 4's.",Directed,257,,,1
+"We have: 23 0's, 42 1's, 100 2's, 32 3's, 23 4's.","We have: 20 0's, 40 1's, 40 2's, 23 3's, 21 4's.",Directed,258,,,1
+"We have: 23 0's, 44 1's, 102 2's, 34 3's, 44 4's.","We have: 21 0's, 42 1's, 44 2's, 31 3's, 33 4's.",Directed,259,,,25
+"We have: 24 0's, 100 1's, 43 2's, 42 3's, 33 4's.","We have: 21 0's, 43 1's, 40 2's, 33 3's, 24 4's.",Directed,260,,,2
+"We have: 24 0's, 102 1's, 101 2's, 41 3's, 33 4's.","We have: 21 0's, 42 1's, 43 2's, 33 3's, 30 4's.",Directed,261,,,1
+"We have: 24 0's, 102 1's, 43 2's, 40 3's, 22 4's.","We have: 21 0's, 100 1's, 33 2's, 33 3's, 13 4's.",Directed,262,,,1
+"We have: 24 0's, 114 1's, 44 2's, 43 3's, 32 4's.","We have: 23 0's, 111 1's, 41 2's, 40 3's, 21 4's.",Directed,263,,,6
+"We have: 24 0's, 43 1's, 40 2's, 34 3's, 31 4's.","We have: 22 0's, 41 1's, 33 2's, 30 3's, 21 4's.",Directed,264,,,8
+"We have: 3 0's, 10 1's, 20 2's, 12 3's, 3 4's.","We have: 2 1's, 12 2's, 4 3's, 2 4's.",Directed,265,,,5
+"We have: 3 0's, 10 1's, 4 2's, 10 3's, 3 4's.","We have: 2 1's, 3 2's, 2 3's, 1 4.",Directed,266,,,1
+"We have: 3 0's, 11 1's, 10 2's, 4 3's, 2 4's.","We have: 1 0, 2 1's, 3 2's, 2 3's.",Directed,267,,,19
+"We have: 3 0's, 11 1's, 12 2's, 3 3's.","We have: 2 0's, 2 1's, 10 2's.",Directed,268,,,1
+"We have: 3 0's, 11 1's, 20 2's, 2 3's, 10 4's.","We have: 2 1's, 12 2's, 4 4's.",Directed,269,,,1
+"We have: 3 0's, 12 1's, 14 2's, 10 3's, 10 4's.","We have: 2 1's, 12 2's, 3 3's, 3 4's.",Directed,270,,,32
+"We have: 3 0's, 12 1's, 20 2's, 4 3's, 11 4's.","We have: 1 0, 3 1's, 12 2's, 2 3's, 4 4's.",Directed,271,,,4
+"We have: 3 0's, 14 1's, 13 2's, 10 3's, 11 4's.","We have: 1 0, 3 1's, 12 2's, 2 3's, 4 4's.",Directed,272,,,92
+"We have: 3 0's, 14 1's, 13 2's, 4 3's, 12 4's.","We have: 2 0's, 10 1's, 11 2's, 1 3, 4 4's.",Directed,273,,,4
+"We have: 3 0's, 14 1's, 3 2's, 10 3's, 3 4's.","We have: 1 0, 11 1's, 2 2's, 1 3, 1 4.",Directed,274,,,1
+"We have: 3 0's, 22 1's, 11 2's, 14 3's, 3 4's.","We have: 2 0's, 13 1's, 3 2's, 11 3's, 1 4.",Directed,275,,,2
+"We have: 3 0's, 24 1's, 32 2's, 13 3's, 21 4's.","We have: 2 0's, 21 1's, 23 2's, 4 3's, 14 4's.",Directed,276,,,44
+"We have: 3 0's, 34 1's, 34 2's, 21 3's, 21 4's.","We have: 2 0's, 31 1's, 31 2's, 12 3's, 13 4's.",Directed,277,,,1
+"We have: 3 0's, 4 1's, 4 2's, 10 3's, 3 4's.","We have: 1 0, 2 1's, 3 2's, 2 3's.",Directed,278,,,1
+"We have: 30 0's, 100 1's, 43 2's, 42 3's, 32 4's.","We have: 21 0's, 43 1's, 40 2's, 33 3's, 24 4's.",Directed,279,,,3
+"We have: 30 0's, 102 1's, 101 2's, 34 3's, 41 4's.","We have: 21 0's, 42 1's, 44 2's, 31 3's, 33 4's.",Directed,280,,,1
+"We have: 30 0's, 102 1's, 101 2's, 41 3's, 32 4's.","We have: 21 0's, 42 1's, 43 2's, 33 3's, 30 4's.",Directed,281,,,2
+"We have: 30 0's, 104 1's, 102 2's, 40 3's, 101 4's.","We have: 14 0's, 44 1's, 100 2's, 33 3's, 43 4's.",Directed,282,,,23
+"We have: 30 0's, 104 1's, 43 2's, 40 3's, 31 4's.","We have: 21 0's, 101 1's, 42 2's, 31 3's, 22 4's.",Directed,283,,,70
+"We have: 30 0's, 111 1's, 101 2's, 40 3's, 100 4's.","We have: 14 0's, 44 1's, 100 2's, 33 3's, 43 4's.",Directed,284,,,9
+"We have: 30 0's, 33 1's, 42 2's, 40 3's, 30 4's.","We have: 21 0's, 32 1's, 40 2's, 30 3's, 22 4's.",Directed,285,,,10
+"We have: 30 0's, 44 1's, 100 2's, 34 3's, 44 4's.","We have: 21 0's, 42 1's, 44 2's, 31 3's, 33 4's.",Directed,286,,,25
+"We have: 30 0's, 44 1's, 103 2's, 42 3's, 31 4's.","We have: 22 0's, 41 1's, 101 2's, 33 3's, 22 4's.",Directed,287,,,3
+"We have: 30 0's, 44 1's, 42 2's, 40 3's, 40 4's.","We have: 21 0's, 43 1's, 40 2's, 33 3's, 24 4's.",Directed,288,,,8
+"We have: 31 0's, 100 1's, 44 2's, 40 3's, 40 4's.","We have: 21 0's, 42 1's, 43 2's, 33 3's, 30 4's.",Directed,289,,,1
+"We have: 31 0's, 101 1's, 101 2's, 33 3's, 42 4's.","We have: 23 0's, 40 1's, 44 2's, 24 3's, 40 4's.",Directed,290,,,17
+"We have: 31 0's, 104 1's, 41 2's, 41 3's, 41 4's.","We have: 24 0's, 43 1's, 40 2's, 34 3's, 31 4's.",Directed,291,,,1
+"We have: 31 0's, 112 1's, 102 2's, 102 3's, 33 4's.","We have: 23 0's, 101 1's, 43 2's, 43 3's, 32 4's.",Directed,292,,,1
+"We have: 31 0's, 120 1's, 112 2's, 43 3's, 104 4's.","We have: 23 0's, 104 1's, 104 2's, 40 3's, 101 4's.",Directed,293,,,5
+"We have: 31 0's, 121 1's, 100 2's, 42 3's, 24 4's.","We have: 23 0's, 111 1's, 41 2's, 40 3's, 21 4's.",Directed,294,,,2
+"We have: 32 0's, 101 1's, 43 2's, 42 3's, 40 4's.","We have: 24 0's, 43 1's, 40 2's, 34 3's, 31 4's.",Directed,295,,,1
+"We have: 32 0's, 104 1's, 104 2's, 41 3's, 104 4's.","We have: 23 0's, 44 1's, 102 2's, 34 3's, 44 4's.",Directed,296,,,24
+"We have: 32 0's, 110 1's, 101 2's, 44 3's, 42 4's.","We have: 24 0's, 100 1's, 43 2's, 42 3's, 33 4's.",Directed,297,,,1
+"We have: 32 0's, 113 1's, 110 2's, 100 3's, 34 4's.","We have: 23 0's, 102 1's, 103 2's, 41 3's, 32 4's.",Directed,298,,,2
+"We have: 32 0's, 121 1's, 111 2's, 42 3's, 104 4's.","We have: 30 0's, 104 1's, 102 2's, 40 3's, 101 4's.",Directed,299,,,5
+"We have: 32 0's, 122 1's, 111 2's, 43 3's, 102 4's.","We have: 30 0's, 111 1's, 101 2's, 40 3's, 100 4's.",Directed,300,,,1
+"We have: 32 0's, 40 1's, 44 2's, 43 3's, 41 4's.","We have: 30 0's, 33 1's, 42 2's, 40 3's, 30 4's.",Directed,301,,,3
+"We have: 33 0's, 100 1's, 42 2's, 43 3's, 40 4's.","We have: 24 0's, 43 1's, 40 2's, 34 3's, 31 4's.",Directed,302,,,5
+"We have: 33 0's, 103 1's, 43 2's, 101 3's, 43 4's.","We have: 30 0's, 44 1's, 42 2's, 40 3's, 40 4's.",Directed,303,,,5
+"We have: 33 0's, 111 1's, 102 2's, 43 3's, 101 4's.","We have: 30 0's, 44 1's, 100 2's, 34 3's, 44 4's.",Directed,304,,,13
+"We have: 33 0's, 111 1's, 104 2's, 101 3's, 34 4's.","We have: 30 0's, 44 1's, 103 2's, 42 3's, 31 4's.",Directed,305,,,2
+"We have: 33 0's, 111 1's, 44 2's, 100 3's, 41 4's.","We have: 30 0's, 100 1's, 43 2's, 42 3's, 32 4's.",Directed,306,,,1
+"We have: 33 0's, 112 1's, 103 2's, 103 3's, 33 4's.","We have: 30 0's, 102 1's, 101 2's, 41 3's, 32 4's.",Directed,307,,,1
+"We have: 33 0's, 121 1's, 103 2's, 44 3's, 104 4's.","We have: 30 0's, 111 1's, 101 2's, 40 3's, 100 4's.",Directed,308,,,2
+"We have: 33 0's, 124 1's, 102 2's, 101 3's, 40 4's.","We have: 24 0's, 114 1's, 44 2's, 43 3's, 32 4's.",Directed,309,,,1
+"We have: 33 0's, 133 1's, 113 2's, 104 3's, 111 4's.","We have: 31 0's, 120 1's, 112 2's, 43 3's, 104 4's.",Directed,310,,,4
+"We have: 33 0's, 41 1's, 43 2's, 100 3's, 34 4's.","We have: 30 0's, 33 1's, 42 2's, 40 3's, 30 4's.",Directed,311,,,6
+"We have: 34 0's, 102 1's, 44 2's, 43 3's, 100 4's.","We have: 30 0's, 44 1's, 42 2's, 40 3's, 40 4's.",Directed,312,,,2
+"We have: 34 0's, 104 1's, 101 2's, 43 3's, 103 4's.","We have: 30 0's, 44 1's, 100 2's, 34 3's, 44 4's.",Directed,313,,,2
+"We have: 34 0's, 104 1's, 102 2's, 41 3's, 104 4's.","We have: 30 0's, 44 1's, 100 2's, 34 3's, 44 4's.",Directed,314,,,3
+"We have: 34 0's, 120 1's, 112 2's, 44 3's, 113 4's.","We have: 32 0's, 104 1's, 104 2's, 41 3's, 104 4's.",Directed,315,,,23
+"We have: 34 0's, 122 1's, 122 2's, 102 3's, 42 4's.","We have: 32 0's, 113 1's, 110 2's, 100 3's, 34 4's.",Directed,316,,,1
+"We have: 34 0's, 134 1's, 113 2's, 101 3's, 112 4's.","We have: 32 0's, 121 1's, 111 2's, 42 3's, 104 4's.",Directed,317,,,4
+"We have: 4 0's, 10 1's, 13 2's, 2 3's, 2 4's.","We have: 2 0's, 2 1's, 10 2's.",Directed,318,,,1
+"We have: 4 0's, 13 1's, 11 2's, 10 3's, 3 4's.","We have: 2 0's, 3 1's, 10 2's, 2 3's, 1 4.",Directed,319,,,93
+"We have: 4 0's, 14 1's, 23 2's, 14 3's, 12 4's.","We have: 3 0's, 10 1's, 20 2's, 12 3's, 3 4's.",Directed,320,,,1
+"We have: 4 0's, 21 1's, 23 2's, 13 3's, 12 4's.","We have: 3 0's, 12 1's, 14 2's, 10 3's, 10 4's.",Directed,321,,,9
+"We have: 4 0's, 21 1's, 23 2's, 13 3's, 13 4's.","We have: 3 0's, 12 1's, 20 2's, 4 3's, 11 4's.",Directed,322,,,1
+"We have: 4 0's, 22 1's, 23 2's, 12 3's, 14 4's.","We have: 3 0's, 14 1's, 13 2's, 10 3's, 11 4's.",Directed,323,,,1
+"We have: 4 0's, 23 1's, 21 2's, 13 3's, 14 4's.","We have: 3 0's, 14 1's, 13 2's, 10 3's, 11 4's.",Directed,324,,,14
+"We have: 4 0's, 24 1's, 31 2's, 10 3's, 20 4's.","We have: 1 0, 21 1's, 23 2's, 3 3's, 12 4's.",Directed,325,,,1
+"We have: 4 0's, 30 1's, 31 2's, 12 3's, 21 4's.","We have: 2 0's, 21 1's, 23 2's, 4 3's, 14 4's.",Directed,326,,,1
+"We have: 4 0's, 32 1's, 14 2's, 21 3's, 11 4's.","We have: 3 0's, 22 1's, 11 2's, 14 3's, 3 4's.",Directed,327,,,1
+"We have: 40 0's, 103 1's, 100 2's, 44 3's, 42 4's.","We have: 30 0's, 100 1's, 43 2's, 42 3's, 32 4's.",Directed,328,,,1
+"We have: 40 0's, 103 1's, 103 2's, 42 3's, 102 4's.","We have: 30 0's, 44 1's, 100 2's, 34 3's, 44 4's.",Directed,329,,,4
+"We have: 40 0's, 104 1's, 102 2's, 41 3's, 103 4's.","We have: 30 0's, 44 1's, 100 2's, 34 3's, 44 4's.",Directed,330,,,2
+"We have: 40 0's, 113 1's, 100 2's, 42 3's, 40 4's.","We have: 30 0's, 104 1's, 43 2's, 40 3's, 31 4's.",Directed,331,,,69
+"We have: 40 0's, 120 1's, 103 2's, 43 3's, 104 4's.","We have: 30 0's, 111 1's, 101 2's, 40 3's, 100 4's.",Directed,332,,,5
+"We have: 40 0's, 120 1's, 104 2's, 41 3's, 110 4's.","We have: 30 0's, 104 1's, 102 2's, 40 3's, 101 4's.",Directed,333,,,17
+"We have: 40 0's, 123 1's, 102 2's, 100 3's, 40 4's.","We have: 24 0's, 114 1's, 44 2's, 43 3's, 32 4's.",Directed,334,,,4
+"We have: 40 0's, 133 1's, 101 2's, 101 3's, 31 4's.","We have: 31 0's, 121 1's, 100 2's, 42 3's, 24 4's.",Directed,335,,,1
+"We have: 41 0's, 104 1's, 44 2's, 44 3's, 102 4's.","We have: 33 0's, 100 1's, 42 2's, 43 3's, 40 4's.",Directed,336,,,3
+"We have: 41 0's, 112 1's, 103 2's, 40 3's, 100 4's.","We have: 31 0's, 101 1's, 101 2's, 33 3's, 42 4's.",Directed,337,,,16
+"We have: 41 0's, 114 1's, 44 2's, 103 3's, 104 4's.","We have: 33 0's, 103 1's, 43 2's, 101 3's, 43 4's.",Directed,338,,,4
+"We have: 41 0's, 121 1's, 104 2's, 43 3's, 114 4's.","We have: 34 0's, 104 1's, 102 2's, 41 3's, 104 4's.",Directed,339,,,2
+"We have: 41 0's, 122 1's, 112 2's, 42 3's, 111 4's.","We have: 40 0's, 104 1's, 102 2's, 41 3's, 103 4's.",Directed,340,,,1
+"We have: 41 0's, 133 1's, 114 2's, 103 3's, 121 4's.","We have: 34 0's, 120 1's, 112 2's, 44 3's, 113 4's.",Directed,341,,,1
+"We have: 41 0's, 134 1's, 104 2's, 101 3's, 114 4's.","We have: 33 0's, 121 1's, 103 2's, 44 3's, 104 4's.",Directed,342,,,1
+"We have: 41 0's, 201 1's, 122 2's, 110 3's, 114 4's.","We have: 33 0's, 133 1's, 113 2's, 104 3's, 111 4's.",Directed,343,,,3
+"We have: 42 0's, 101 1's, 101 2's, 44 3's, 100 4's.","We have: 32 0's, 40 1's, 44 2's, 43 3's, 41 4's.",Directed,344,,,1
+"We have: 42 0's, 114 1's, 101 2's, 44 3's, 110 4's.","We have: 34 0's, 102 1's, 44 2's, 43 3's, 100 4's.",Directed,345,,,1
+"We have: 42 0's, 120 1's, 110 2's, 44 3's, 112 4's.","We have: 34 0's, 104 1's, 101 2's, 43 3's, 103 4's.",Directed,346,,,1
+"We have: 42 0's, 120 1's, 120 2's, 102 3's, 42 4's.","We have: 33 0's, 111 1's, 104 2's, 101 3's, 34 4's.",Directed,347,,,1
+"We have: 42 0's, 122 1's, 112 2's, 100 3's, 103 4's.","We have: 33 0's, 111 1's, 102 2's, 43 3's, 101 4's.",Directed,348,,,6
+"We have: 42 0's, 123 1's, 110 2's, 101 3's, 103 4's.","We have: 33 0's, 111 1's, 102 2's, 43 3's, 101 4's.",Directed,349,,,1
+"We have: 42 0's, 212 1's, 134 2's, 112 3's, 122 4's.","We have: 41 0's, 201 1's, 122 2's, 110 3's, 114 4's.",Directed,350,,,1
+"We have: 43 0's, 100 1's, 102 2's, 102 3's, 42 4's.","We have: 33 0's, 41 1's, 43 2's, 100 3's, 34 4's.",Directed,351,,,1
+"We have: 43 0's, 101 1's, 100 2's, 103 3's, 42 4's.","We have: 33 0's, 41 1's, 43 2's, 100 3's, 34 4's.",Directed,352,,,1
+"We have: 43 0's, 120 1's, 110 2's, 44 3's, 111 4's.","We have: 40 0's, 103 1's, 103 2's, 42 3's, 102 4's.",Directed,353,,,3
+"We have: 43 0's, 122 1's, 110 2's, 100 3's, 104 4's.","We have: 33 0's, 111 1's, 102 2's, 43 3's, 101 4's.",Directed,354,,,4
+"We have: 43 0's, 122 1's, 112 2's, 43 3's, 104 4's.","We have: 41 0's, 112 1's, 103 2's, 40 3's, 100 4's.",Directed,355,,,12
+"We have: 43 0's, 130 1's, 122 2's, 102 3's, 120 4's.","We have: 34 0's, 120 1's, 112 2's, 44 3's, 113 4's.",Directed,356,,,1
+"We have: 43 0's, 131 1's, 120 2's, 103 3's, 120 4's.","We have: 34 0's, 120 1's, 112 2's, 44 3's, 113 4's.",Directed,357,,,20
+"We have: 43 0's, 133 1's, 101 2's, 112 3's, 111 4's.","We have: 41 0's, 114 1's, 44 2's, 103 3's, 104 4's.",Directed,358,,,1
+"We have: 43 0's, 133 1's, 103 2's, 110 3's, 44 4's.","We have: 40 0's, 123 1's, 102 2's, 100 3's, 40 4's.",Directed,359,,,2
+"We have: 43 0's, 133 1's, 110 2's, 102 3's, 111 4's.","We have: 40 0's, 120 1's, 103 2's, 43 3's, 104 4's.",Directed,360,,,4
+"We have: 43 0's, 133 1's, 111 2's, 100 3's, 112 4's.","We have: 40 0's, 120 1's, 104 2's, 41 3's, 110 4's.",Directed,361,,,16
+"We have: 43 0's, 133 1's, 112 2's, 103 3's, 121 4's.","We have: 41 0's, 121 1's, 104 2's, 43 3's, 114 4's.",Directed,362,,,1
+"We have: 44 0's, 100 1's, 100 2's, 102 3's, 43 4's.","We have: 33 0's, 41 1's, 43 2's, 100 3's, 34 4's.",Directed,363,,,3
+"We have: 44 0's, 104 1's, 43 2's, 100 3's, 100 4's.","We have: 33 0's, 100 1's, 42 2's, 43 3's, 40 4's.",Directed,364,,,1
+"We have: 44 0's, 122 1's, 103 2's, 44 3's, 100 4's.","We have: 40 0's, 113 1's, 100 2's, 42 3's, 40 4's.",Directed,365,,,68
+"We have: 44 0's, 124 1's, 110 2's, 41 3's, 110 4's.","We have: 41 0's, 112 1's, 103 2's, 40 3's, 100 4's.",Directed,366,,,1
+"We have: 44 0's, 134 1's, 113 2's, 104 3's, 113 4's.","We have: 42 0's, 122 1's, 112 2's, 100 3's, 103 4's.",Directed,367,,,1
+"We have: 44 0's, 134 1's, 114 2's, 102 3's, 114 4's.","We have: 42 0's, 122 1's, 112 2's, 100 3's, 103 4's.",Directed,368,,,1
+"We have: 44 0's, 134 1's, 121 2's, 102 3's, 112 4's.","We have: 42 0's, 122 1's, 112 2's, 100 3's, 103 4's.",Directed,369,,,1
