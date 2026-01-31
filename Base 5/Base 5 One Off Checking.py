@@ -17,7 +17,7 @@ Base = "Base 5/"
 #folder = "C:/Users/carne/OneDrive/Carneades/Experimental Philosophy/XKCD Puzzle/Base 4 After 500/"
 #Main Computer 
 folder = 'C:/Users/thabe/Documents/Carneades/xkcd Puzzle/1.26.26 Cleanup of Existing Data and Gephy/'
-extra = '/One Off Checking/'
+extra = ''
 
 with open(folder + Base + extra + '/LastGood.txt', 'r') as file:
     tuple_str = file.read()
@@ -30,23 +30,18 @@ last_good_Diagonal = ImportLastGoodDiagonal
 
 
 def base_5_conversion(n):
-    """
-    Converts a non-negative integer to its quaternary (base-4) string representation.
-    """
+
     if n == 0:
         return '0'
     nums = []
     temp_n = abs(n)
     while temp_n:
-        # Change the base from 3 to 4
         temp_n, r = divmod(temp_n, 5)
         nums.append(str(r))
     return ''.join(reversed(nums))
 
 def length_of_string(s):
-    """
-    Returns the length of a string.
-    """
+
     return len(s)
 
 def BaseConversion (n):
@@ -58,28 +53,17 @@ def BaseConversion (n):
         nums.append(str(r))
     return ''.join(reversed(nums))
 
-def run_program_base_4(current_sum):
-    """
-    Generates and processes the (a, b, c, d) quadruples up to max_sum such that a+b+c+d=n.
-    """
-    # Base 4 uses four digits (0, 1, 2, 3), so we now need quadruples (a, b, c, d)
-    # The sum will be a + b + c + d = n.
-    # This will be the main list, replacing the pandas DataFrame 'df'.
-    # Inner list structure:
-    # [a, b, c, d, Total, TotalDigits, Zeros4, Ones4, Twos4, Threes4, ZerosCount, OnesCount, TwosCount, ThreesCount]
+def run_program_base_5(current_sum):
     all_data = []
 
     print_num = 0
     all_counter = 0
-    # The nested loops to generate the (a, b, c, d) quadruples
     for a in range(current_sum + 1):
         for b in range(current_sum + 1 - a):
             for c in range(current_sum + 1 - a - b):
                 for d in range(current_sum + 1 - a - b - c):
-                    # d is the remainder to make the sum equal to current_sum
                     e = current_sum - a - b - c - d
                     
-                    # 2. Calculate base 4 representations (replacing .map(ternary))
                     zeros5 = base_5_conversion(a)
                     ones5 = base_5_conversion(b)
                     twos5 = base_5_conversion(c)
@@ -97,8 +81,6 @@ def run_program_base_4(current_sum):
                     # 4. Calculate total digits
                     total_digits = zeros_count + ones_count + twos_count + threes_count + fours_count
     
-                    # Append the complete 'row' (list) to the main data list
-                    # Indices: 0-3: a, b, c, d; 4: Total; 5: TotalDigits
                     row = [a, b, c, d, e, current_sum, total_digits]
                     all_data.append(row)
     
@@ -122,13 +104,11 @@ def collapsing(to_collapse):
         total_sum = row[TOTAL_INDEX]
         total_digits = row[TOTAL_DIGITS_INDEX]
 
-        # Find the max TotalDigits for each Total sum
         if total_sum not in collapsed_data or total_digits > collapsed_data[total_sum]:
             collapsed_data[total_sum] = total_digits
 
     # --- CSV Output (Replacing .to_csv) ---
 
-    # 1. Output for 'CollapsedOrderedBase4.csv' (equivalent to collapseddf)
     collapsed_rows = [['Total', 'TotalDigits']] + [[k, v] for k, v in collapsed_data.items()]
 
     # Sort by 'Total'
@@ -164,7 +144,7 @@ def remove_zeros(test_list, item):
     return res 
 FullExit = 0
 while FullExit <100000:
-    full_data = run_program_base_4(CurrentNumberToCheck)
+    full_data = run_program_base_5(CurrentNumberToCheck)
     collapsed_data = collapsing(full_data)
     
     Exit = 0
@@ -182,9 +162,7 @@ while FullExit <100000:
     for node in full_data:
         runcount = runcount + 1
         allcount = allcount + 1
-        #!# (3/5) Note that we need to add another term each time
-        #lastcheckcount = ogcount0 + maxrange*ogcount1 + maxrange*maxrange*ogcount2 + maxrange*maxrange*maxrange*ogcount3
-        #!#
+
         ogcount0 = node[0]
         ogcount1 = node[1]
         ogcount2 = node[2]
@@ -216,7 +194,7 @@ while FullExit <100000:
             print(counter_list)
             runcount = 0
         digit_count = node[5]
-        loseable_digits =  collapsed_data + 5 #Adding the +3 because the file only counts total digits, not the needed stated digits (note zeros are counted by the file too)
+        loseable_digits =  collapsed_data + 5 
         lowest_possible_diagonal = digit_count - loseable_digits
         if lowest_possible_diagonal > last_good_Diagonal:
             print(lowest_possible_diagonal)
