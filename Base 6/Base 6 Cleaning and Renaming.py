@@ -11,7 +11,7 @@ Base = 6
 NoDigits = "[0, 0, 0, 0, 0, 0]"
 Location = "BagsOfDigits/Base 6"
 
-initial_data = pd.read_excel(Location + "/Output Final Base 6 137.xlsx", header=None)
+initial_data = pd.read_excel(Location + "/Output Final Base 6 223.xlsx", header=None)
 
 final_data = pd.DataFrame(columns=["Input","Output"])
 print(initial_data.head())
