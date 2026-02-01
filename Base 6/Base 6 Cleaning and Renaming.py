@@ -39,19 +39,19 @@ for index, row in initial_data.iterrows():
             TryCount = TryCount + 1
             
 
-final_data.to_csv(Location +"/Cleaned Base 6 137.csv", index = False)                            
+final_data.to_csv(Location +"/Cleaned Base 6 223.csv", index = False)                            
 
 print("Done")
 
 final_data['Count'] = 1
 Collapsed = final_data.groupby(['Input','Output']).agg(SUM = ('Count','sum'))
 print(Collapsed.head())
-Collapsed.to_csv(Location + "/Collapsed Base 6 137.csv", index = True) 
+Collapsed.to_csv(Location + "/Collapsed Base 6 223.csv", index = True) 
 
 ###############################################################################
 #Renaming
 
-initial_data = pd.read_csv(Location +"/Collapsed Base 6 137.csv")
+initial_data = pd.read_csv(Location +"/Collapsed Base 6 223.csv")
 print(initial_data.head())
 print(type(initial_data['Input']))
 
@@ -123,5 +123,5 @@ concatenated_df = pd.concat([final_input, final_output, weight_data], axis=1, jo
 
 print(concatenated_df)
 
-concatenated_df.to_csv(Location + "/Output_Pairs_Named Base 6 137.csv", index = False)   
+concatenated_df.to_csv(Location + "/Output_Pairs_Named Base 6 223.csv", index = False)   
 #Some columns might need to be renamed for the next file

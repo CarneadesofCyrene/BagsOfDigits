@@ -52,7 +52,7 @@ def BaseConversion (n):
         nums.append(str(r))
     return ''.join(reversed(nums))
 
-def run_program_base_6(current_sum): # 5. Renamed function
+def run_program_base_6_collapse(current_sum): # 5. Renamed function
     """
     Generates and processes the (a, b, c, d, e, f) sextuples up to max_sum such that a+b+c+d+e+f=n.
     """
@@ -60,7 +60,7 @@ def run_program_base_6(current_sum): # 5. Renamed function
     # The sum will be a + b + c + d + e + f = n.
     # Inner list structure:
     # [a, b, c, d, e, f, Total, TotalDigits, Zeros6, Ones6, Twos6, Threes6, Fours6, Fives6, ZerosCount, OnesCount, TwosCount, ThreesCount, FoursCount, FivesCount]
-    all_data = []
+    maximum_digits = 0
 
     print_num = 0
     all_counter = 0
@@ -94,8 +94,8 @@ def run_program_base_6(current_sum): # 5. Renamed function
         
                         # 13. Append the complete 'row' (list) to the main data list (added e, f)
                         # Indices: 0-5: a, b, c, d, e, f; 6: Total; 7: TotalDigits
-                        row = [a, b, c, d, e, f, current_sum, total_digits] 
-                        all_data.append(row)
+                        if total_digits > maximum_digits:
+                            maximum_digits = total_digits
         
                         # Check for progress print
                         if print_num == 1000000:
@@ -103,32 +103,77 @@ def run_program_base_6(current_sum): # 5. Renamed function
                             print_num = 0
                         print_num += 1
                         all_counter += 1
-    return(all_data)
+    return(maximum_digits)
 
-def collapsing(to_collapse):
-    # --- Data Summarization (Replacing GroupBy and Max) ---
-    collapsed_data = {}
+def run_program_base_6_generator(current_sum):
+    """
+    (GENERATOR) Yields the (a, b, c, d, e, f) data rows up to current_sum.
+    This saves memory by not storing all results in a list.
+    """
+    # Base 6 uses six digits (0, 1, 2, 3, 4, 5), so we need sextuples (a, b, c, d, e, f)
+    # The sum will be a + b + c + d + e + f = current_sum.
+    # Yielded data structure:
+    # [a, b, c, d, e, f, Total, TotalDigits]
 
-    # 14. The column indices for Total (6) and TotalDigits (7) in the all_data list
-    TOTAL_INDEX = 6 
-    TOTAL_DIGITS_INDEX = 7
+    # The nested loops to generate the (a, b, c, d, e, f) sextuples
+    for a in range(current_sum + 1):
+        for b in range(current_sum + 1 - a):
+            for c in range(current_sum + 1 - a - b):
+                for d in range(current_sum + 1 - a - b - c):
+                    for e in range(current_sum + 1 - a - b - c - d):
+                        # f is the remainder to make the sum equal to current_sum
+                        f = current_sum - a - b - c - d - e
+                        
+                        # Calculate base 6 representations
+                        zeros6 = base_6_conversion(a)
+                        ones6 = base_6_conversion(b)
+                        twos6 = base_6_conversion(c)
+                        threes6 = base_6_conversion(d) 
+                        fours6 = base_6_conversion(e)
+                        fives6 = base_6_conversion(f)
+                        
+                        # Calculate lengths
+                        zeros_count = length_of_string(zeros6)
+                        ones_count = length_of_string(ones6)
+                        twos_count = length_of_string(twos6)
+                        threes_count = length_of_string(threes6)
+                        fours_count = length_of_string(fours6)
+                        fives_count = length_of_string(fives6)
+                        
+                        # Calculate total digits
+                        total_digits = zeros_count + ones_count + twos_count + threes_count + fours_count + fives_count 
+                        
+                        # YIELD the data row instead of appending to a list
+                        row = [a, b, c, d, e, f, current_sum, total_digits] 
+                        yield row
 
-    for row in to_collapse:
-        total_sum = row[TOTAL_INDEX]
-        total_digits = row[TOTAL_DIGITS_INDEX]
 
-        # Find the max TotalDigits for each Total sum
-        if total_sum not in collapsed_data or total_digits > collapsed_data[total_sum]:
-            collapsed_data[total_sum] = total_digits
 
-    # --- CSV Output (Replacing .to_csv) ---
 
-    # 15. Output for 'CollapsedOrderedBase6.csv' 
-    collapsed_rows = [['Total', 'TotalDigits']] + [[k, v] for k, v in collapsed_data.items()]
+# def collapsing(to_collapse):
+#     # --- Data Summarization (Replacing GroupBy and Max) ---
+#     collapsed_data = {}
 
-    # Sort by 'Total'
-    collapsed_rows[1:] = sorted(collapsed_rows[1:], key=lambda x: x[0])
-    return(collapsed_rows[1][1])
+#     # 14. The column indices for Total (6) and TotalDigits (7) in the all_data list
+#     TOTAL_INDEX = 6 
+#     TOTAL_DIGITS_INDEX = 7
+
+#     for row in to_collapse:
+#         total_sum = row[TOTAL_INDEX]
+#         total_digits = row[TOTAL_DIGITS_INDEX]
+
+#         # Find the max TotalDigits for each Total sum
+#         if total_sum not in collapsed_data or total_digits > collapsed_data[total_sum]:
+#             collapsed_data[total_sum] = total_digits
+
+#     # --- CSV Output (Replacing .to_csv) ---
+
+#     # 15. Output for 'CollapsedOrderedBase6.csv' 
+#     collapsed_rows = [['Total', 'TotalDigits']] + [[k, v] for k, v in collapsed_data.items()]
+
+#     # Sort by 'Total'
+#     collapsed_rows[1:] = sorted(collapsed_rows[1:], key=lambda x: x[0])
+#     return(collapsed_rows[1][1])
 
 def split_number(number):
     digits = []
@@ -160,8 +205,10 @@ def remove_zeros(test_list, item):
 
 FullExit = 0
 while FullExit <100000:
-    full_data = run_program_base_6(CurrentNumberToCheck) # 16. Renamed function
-    collapsed_data = collapsing(full_data)
+    #full_data = run_program_base_6(CurrentNumberToCheck) # 16. Renamed function
+    #collapsed_data = collapsing(full_data)
+    generator = run_program_base_6_generator(CurrentNumberToCheck)
+    collapsed_data = run_program_base_6_collapse(CurrentNumberToCheck)
     
     Exit = 0
     goodlist = []
@@ -174,7 +221,7 @@ while FullExit <100000:
     #Counting the number of instances checked regardless of saves
     allcount = 0
     Found_Bad = 0
-    for node in full_data:
+    for i, node in enumerate(generator):
         runcount = runcount + 1
         allcount = allcount + 1
         
@@ -215,7 +262,7 @@ while FullExit <100000:
             print(counter_list)
             runcount = 0
             
-        digit_count = node[6] # 23. Index changed from 5 to 6
+        digit_count = node[6] 
         loseable_digits = collapsed_data + 6 # 24. Changed +5 to +6 for 6 digits
         lowest_possible_diagonal = digit_count - loseable_digits
         if lowest_possible_diagonal > last_good_Diagonal:
