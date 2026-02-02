@@ -12,6 +12,10 @@ NoDigits = "[0, 0]"
 Location = "BagsOfDigits/Base 2"
 
 initial_data = pd.read_excel(Location + "/Output Final Base 2 Diagonal All.xlsx", header=None)
+import numpy as np #BUGFIX
+last_column_name = initial_data.columns[-1] #BUGFIX
+Final_column_name = last_column_name + 1 #BUGFIX
+initial_data[Final_column_name] = np.nan #BUGFIX
 
 final_data = pd.DataFrame(columns=["Input","Output"])
 print(initial_data.head())
