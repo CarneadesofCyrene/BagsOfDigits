@@ -13,6 +13,11 @@ Location = "BagsOfDigits/Base 4"
 
 initial_data = pd.read_excel(Location + "/Output Final 1053.xlsx", header=None)
 
+import numpy as np #BUGFIX
+last_column_name = initial_data.columns[-1] #BUGFIX
+Final_column_name = last_column_name + 1 #BUGFIX
+initial_data[Final_column_name] = np.nan #BUGFIX
+
 final_data = pd.DataFrame(columns=["Input","Output"])
 print(initial_data.head())
 
